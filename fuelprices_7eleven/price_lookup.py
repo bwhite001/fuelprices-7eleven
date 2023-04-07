@@ -3,7 +3,7 @@ import time
 
 import aiohttp
 
-from seven11fuelprices.fuel_stations import SevenElevenFuelStations
+from fuelprices_7eleven.fuel_stations import SevenElevenFuelStations
 
 sevenElevenFuelStationsClient = SevenElevenFuelStations()
 

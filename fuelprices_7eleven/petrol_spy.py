@@ -1,4 +1,4 @@
-from seven11fuelprices.crawler.requests import RequestApi
+from fuelprices_7eleven.crawler.requests import RequestApi
 from datetime import datetime, timedelta
 
 class PetrolSpyClient(RequestApi):

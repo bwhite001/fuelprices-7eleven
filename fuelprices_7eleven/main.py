@@ -1,7 +1,7 @@
 import click
 from tabulate import tabulate
 
-from seven11fuelprices.price_lookup import LookupPrices
+from fuelprices_7eleven.price_lookup import LookupPrices
 from discordwebhook import Discord
 
 @click.command()

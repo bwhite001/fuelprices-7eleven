@@ -1,6 +1,6 @@
-from seven11fuelprices.crawler.crawler import FuelPriceWebsite
-from seven11fuelprices.json_helper import JsonHelper
-from seven11fuelprices.petrol_spy import PetrolSpyClient
+from fuelprices_7eleven.crawler.crawler import FuelPriceWebsite
+from fuelprices_7eleven.json_helper import JsonHelper
+from fuelprices_7eleven.petrol_spy import PetrolSpyClient
 
 
 class SevenElevenFuelStations:
