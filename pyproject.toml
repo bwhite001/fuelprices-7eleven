@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "seven11fuelprices"
+version = "0.1.0"
+description = ""
+authors = ["Brandon White <bwhite@infoxchange.org>"]
+
+[tool.poetry.scripts]
+seven11fuelprices = 'seven11fuelprices.main:run'
+seven11todiscord = 'seven11fuelprices.discord:run'
+
+[tool.poetry.dependencies]
+python = "^3.9"
+beautifulsoup4 = "^4.11.2"
+requests = "^2.28.2"
+cloudscraper = "^1.2.68"
+jsoncomment = "^0.4.2"
+click = "^8.1.3"
+tabulate = "^0.9.0"
+aiohttp = "^3.8.4"
+asyncio = "^3.4.3"
+discordwebhook = "^1.0.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

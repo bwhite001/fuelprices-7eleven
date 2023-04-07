@@ -1,0 +1,4850 @@
+[
+    {
+        "name": "7-Eleven  Bracken Ridge North",
+        "coordinates": {
+            "lat": -27.309924,
+            "long": 153.025472
+        },
+        "suburb": " BRACKEN RIDGE NORTH"
+    },
+    {
+        "name": "7-Eleven Acacia Ridge",
+        "coordinates": {
+            "lat": -27.589318,
+            "long": 153.027136
+        },
+        "suburb": "ACACIA RIDGE"
+    },
+    {
+        "name": "7-Eleven Acacia Ridge East",
+        "coordinates": {
+            "lat": -27.575638,
+            "long": 153.039576
+        },
+        "suburb": "ACACIA RIDGE EAST"
+    },
+    {
+        "name": "7-Eleven Adamstown",
+        "coordinates": {
+            "lat": -32.934945,
+            "long": 151.729634
+        },
+        "suburb": "ADAMSTOWN"
+    },
+    {
+        "name": "7-Eleven Albany Creek",
+        "coordinates": {
+            "lat": -27.363157,
+            "long": 153.011837
+        },
+        "suburb": "ALBANY CREEK"
+    },
+    {
+        "name": "7-Eleven Albion Park Rail",
+        "coordinates": {
+            "lat": -34.552962,
+            "long": 150.788927
+        },
+        "suburb": "ALBION PARK RAIL"
+    },
+    {
+        "name": "7-Eleven Albion Park Rail",
+        "coordinates": {
+            "lat": -34.559031,
+            "long": 150.793658
+        },
+        "suburb": "ALBION PARK RAIL"
+    },
+    {
+        "name": "7-Eleven Algester",
+        "coordinates": {
+            "lat": -27.612577,
+            "long": 153.039643
+        },
+        "suburb": "ALGESTER"
+    },
+    {
+        "name": "7-Eleven Altona",
+        "coordinates": {
+            "lat": -37.849395,
+            "long": 144.844829
+        },
+        "suburb": "ALTONA"
+    },
+    {
+        "name": "7-Eleven Altona",
+        "coordinates": {
+            "lat": -37.856381,
+            "long": 144.810066
+        },
+        "suburb": "ALTONA"
+    },
+    {
+        "name": "7-Eleven Ambarvale",
+        "coordinates": {
+            "lat": -34.087352,
+            "long": 150.799712
+        },
+        "suburb": "AMBARVALE"
+    },
+    {
+        "name": "7-Eleven Ardeer",
+        "coordinates": {
+            "lat": -37.804149,
+            "long": 144.804284
+        },
+        "suburb": "ARDEER"
+    },
+    {
+        "name": "7-Eleven Ardeer",
+        "coordinates": {
+            "lat": -37.805256,
+            "long": 144.808832
+        },
+        "suburb": "ARDEER"
+    },
+    {
+        "name": "7-Eleven Argenton",
+        "coordinates": {
+            "lat": -32.935194,
+            "long": 151.630728
+        },
+        "suburb": "ARGENTON"
+    },
+    {
+        "name": "7-Eleven Armstrong Creek",
+        "coordinates": {
+            "lat": -38.230327,
+            "long": 144.372727
+        },
+        "suburb": "ARMSTRONG CREEK"
+    },
+    {
+        "name": "7-Eleven Arncliffe",
+        "coordinates": {
+            "lat": -33.934164,
+            "long": 151.152566
+        },
+        "suburb": "ARNCLIFFE"
+    },
+    {
+        "name": "7-Eleven Arndell Park",
+        "coordinates": {
+            "lat": -33.796722,
+            "long": 150.897194
+        },
+        "suburb": "ARNDELL PARK"
+    },
+    {
+        "name": "7-Eleven Artarmon",
+        "coordinates": {
+            "lat": -33.810521,
+            "long": 151.177429
+        },
+        "suburb": "ARTARMON"
+    },
+    {
+        "name": "7-Eleven Ascot",
+        "coordinates": {
+            "lat": -31.941776,
+            "long": 115.925077
+        },
+        "suburb": "ASCOT"
+    },
+    {
+        "name": "7-Eleven Ascot",
+        "coordinates": {
+            "lat": -27.428211,
+            "long": 153.062348
+        },
+        "suburb": "ASCOT"
+    },
+    {
+        "name": "7-Eleven Ashfield",
+        "coordinates": {
+            "lat": -33.890466,
+            "long": 151.129597
+        },
+        "suburb": "ASHFIELD"
+    },
+    {
+        "name": "7-Eleven Ashgrove",
+        "coordinates": {
+            "lat": -27.445846,
+            "long": 152.991174
+        },
+        "suburb": "ASHGROVE"
+    },
+    {
+        "name": "7-Eleven Ashmore",
+        "coordinates": {
+            "lat": -27.978655,
+            "long": 153.379546
+        },
+        "suburb": "ASHMORE"
+    },
+    {
+        "name": "7-Eleven Ashmore",
+        "coordinates": {
+            "lat": -27.984637,
+            "long": 153.365741
+        },
+        "suburb": "ASHMORE"
+    },
+    {
+        "name": "7-Eleven Ashwood",
+        "coordinates": {
+            "lat": -37.863394,
+            "long": 145.093498
+        },
+        "suburb": "ASHWOOD"
+    },
+    {
+        "name": "7-Eleven Aspendale",
+        "coordinates": {
+            "lat": -38.027943,
+            "long": 145.130078
+        },
+        "suburb": "ASPENDALE"
+    },
+    {
+        "name": "7-Eleven Aspley",
+        "coordinates": {
+            "lat": -27.358363,
+            "long": 153.017247
+        },
+        "suburb": "ASPLEY"
+    },
+    {
+        "name": "7-Eleven Aspley",
+        "coordinates": {
+            "lat": -27.365108,
+            "long": 153.026127
+        },
+        "suburb": "ASPLEY"
+    },
+    {
+        "name": "7-Eleven Auburn",
+        "coordinates": {
+            "lat": -37.815221,
+            "long": 145.041258
+        },
+        "suburb": "AUBURN"
+    },
+    {
+        "name": "7-Eleven Bacchus Marsh",
+        "coordinates": {
+            "lat": -37.671671,
+            "long": 144.425691
+        },
+        "suburb": "BACCHUS MARSH"
+    },
+    {
+        "name": "7-Eleven Balcatta",
+        "coordinates": {
+            "lat": -31.860353,
+            "long": 115.80964
+        },
+        "suburb": "BALCATTA"
+    },
+    {
+        "name": "7-Eleven Bald Hills",
+        "coordinates": {
+            "lat": -27.319156,
+            "long": 153.006917
+        },
+        "suburb": "BALD HILLS"
+    },
+    {
+        "name": "7-Eleven Baldivis",
+        "coordinates": {
+            "lat": -32.308362,
+            "long": 115.822017
+        },
+        "suburb": "BALDIVIS"
+    },
+    {
+        "name": "7-Eleven Balga",
+        "coordinates": {
+            "lat": -31.856494,
+            "long": 115.83739
+        },
+        "suburb": "BALGA"
+    },
+    {
+        "name": "7-Eleven Banksia Grove",
+        "coordinates": {
+            "lat": -31.70499,
+            "long": 115.802977
+        },
+        "suburb": "BANKSIA GROVE"
+    },
+    {
+        "name": "7-Eleven Banksia Grove",
+        "coordinates": {
+            "lat": -31.703423,
+            "long": 115.804315
+        },
+        "suburb": "BANKSIA GROVE"
+    },
+    {
+        "name": "7-Eleven Bankstown",
+        "coordinates": {
+            "lat": -33.920941,
+            "long": 151.039191
+        },
+        "suburb": "BANKSTOWN"
+    },
+    {
+        "name": "7-Eleven Bassendean",
+        "coordinates": {
+            "lat": -31.9063297,
+            "long": 115.9308682
+        },
+        "suburb": "BASSENDEAN"
+    },
+    {
+        "name": "7-Eleven Bathurst",
+        "coordinates": {
+            "lat": -33.418148,
+            "long": 149.568104
+        },
+        "suburb": "BATHURST"
+    },
+    {
+        "name": "7-Eleven Baulkham Hills",
+        "coordinates": {
+            "lat": -33.755512,
+            "long": 150.963514
+        },
+        "suburb": "BAULKHAM HILLS"
+    },
+    {
+        "name": "7-Eleven Bayswater",
+        "coordinates": {
+            "lat": -37.844751,
+            "long": 145.269875
+        },
+        "suburb": "BAYSWATER"
+    },
+    {
+        "name": "7-Eleven Bayswater",
+        "coordinates": {
+            "lat": -37.831111,
+            "long": 145.271179
+        },
+        "suburb": "BAYSWATER"
+    },
+    {
+        "name": "7-Eleven Bayswater East",
+        "coordinates": {
+            "lat": -37.837815,
+            "long": 145.286519
+        },
+        "suburb": "BAYSWATER EAST"
+    },
+    {
+        "name": "7-Eleven Beaudesert",
+        "coordinates": {
+            "lat": -27.984002444154,
+            "long": 152.99558252163
+        },
+        "suburb": "BEAUDESERT"
+    },
+    {
+        "name": "7-Eleven Beenleigh City Road",
+        "coordinates": {
+            "lat": -27.707792,
+            "long": 153.203668
+        },
+        "suburb": "BEENLEIGH CITY ROAD"
+    },
+    {
+        "name": "7-Eleven Bellbird Park",
+        "coordinates": {
+            "lat": -27.645315,
+            "long": 152.872181
+        },
+        "suburb": "BELLBIRD PARK"
+    },
+    {
+        "name": "7-Eleven Bellmere",
+        "coordinates": {
+            "lat": -27.088983,
+            "long": 152.927698
+        },
+        "suburb": "BELLMERE"
+    },
+    {
+        "name": "7-Eleven Belmont",
+        "coordinates": {
+            "lat": -38.179078,
+            "long": 144.351781
+        },
+        "suburb": "BELMONT"
+    },
+    {
+        "name": "7-Eleven Belmont North",
+        "coordinates": {
+            "lat": -33.022787,
+            "long": 151.664179
+        },
+        "suburb": "BELMONT NORTH"
+    },
+    {
+        "name": "7-Eleven Belmore",
+        "coordinates": {
+            "lat": -33.925456,
+            "long": 151.087072
+        },
+        "suburb": "BELMORE"
+    },
+    {
+        "name": "7-Eleven Bentley",
+        "coordinates": {
+            "lat": -32.001754,
+            "long": 115.918523
+        },
+        "suburb": "BENTLEY"
+    },
+    {
+        "name": "7-Eleven Berkeley",
+        "coordinates": {
+            "lat": -34.476871,
+            "long": 150.839335
+        },
+        "suburb": "BERKELEY"
+    },
+    {
+        "name": "7-Eleven Berowra",
+        "coordinates": {
+            "lat": -33.627124,
+            "long": 151.148098
+        },
+        "suburb": "BEROWRA"
+    },
+    {
+        "name": "7-Eleven Bexley",
+        "coordinates": {
+            "lat": -33.955531,
+            "long": 151.118478
+        },
+        "suburb": "BEXLEY"
+    },
+    {
+        "name": "7-Eleven Bexley",
+        "coordinates": {
+            "lat": -33.951524,
+            "long": 151.125198
+        },
+        "suburb": "BEXLEY"
+    },
+    {
+        "name": "7-Eleven Bibra Lake",
+        "coordinates": {
+            "lat": -32.101342,
+            "long": 115.801435
+        },
+        "suburb": "BIBRA LAKE"
+    },
+    {
+        "name": "7-Eleven Birkdale",
+        "coordinates": {
+            "lat": -27.508894,
+            "long": 153.207079
+        },
+        "suburb": "BIRKDALE"
+    },
+    {
+        "name": "7-Eleven Black Rock",
+        "coordinates": {
+            "lat": -37.976013,
+            "long": 145.017875
+        },
+        "suburb": "BLACK ROCK"
+    },
+    {
+        "name": "7-Eleven Blackburn North",
+        "coordinates": {
+            "lat": -37.810482,
+            "long": 145.151954
+        },
+        "suburb": "BLACKBURN NORTH"
+    },
+    {
+        "name": "7-Eleven Blackburn South",
+        "coordinates": {
+            "lat": -37.830663,
+            "long": 145.137056
+        },
+        "suburb": "BLACKBURN SOUTH"
+    },
+    {
+        "name": "7-Eleven Blacktown",
+        "coordinates": {
+            "lat": -33.754839,
+            "long": 150.891241
+        },
+        "suburb": "BLACKTOWN"
+    },
+    {
+        "name": "7-Eleven Blacktown",
+        "coordinates": {
+            "lat": -33.775908,
+            "long": 150.894749
+        },
+        "suburb": "BLACKTOWN"
+    },
+    {
+        "name": "7-Eleven Blacktown",
+        "coordinates": {
+            "lat": -33.795417,
+            "long": 150.904904
+        },
+        "suburb": "BLACKTOWN"
+    },
+    {
+        "name": "7-Eleven Blacktown East",
+        "coordinates": {
+            "lat": -33.780107,
+            "long": 150.920677
+        },
+        "suburb": "BLACKTOWN EAST"
+    },
+    {
+        "name": "7-Eleven Blaxland",
+        "coordinates": {
+            "lat": -33.746366,
+            "long": 150.613486
+        },
+        "suburb": "BLAXLAND"
+    },
+    {
+        "name": "7-Eleven Bligh Park",
+        "coordinates": {
+            "lat": -33.637167,
+            "long": 150.786046
+        },
+        "suburb": "BLIGH PARK"
+    },
+    {
+        "name": "7-Eleven Bonnyrigg",
+        "coordinates": {
+            "lat": -33.884086,
+            "long": 150.892033
+        },
+        "suburb": "BONNYRIGG"
+    },
+    {
+        "name": "7-Eleven Booragoon",
+        "coordinates": {
+            "lat": -32.039537,
+            "long": 115.822893
+        },
+        "suburb": "BOORAGOON"
+    },
+    {
+        "name": "7-Eleven Boronia Heights",
+        "coordinates": {
+            "lat": -27.678414,
+            "long": 153.021746
+        },
+        "suburb": "BORONIA HEIGHTS"
+    },
+    {
+        "name": "7-Eleven Box Hill",
+        "coordinates": {
+            "lat": -37.817059,
+            "long": 145.114357
+        },
+        "suburb": "BOX HILL"
+    },
+    {
+        "name": "7-Eleven Brabham",
+        "coordinates": {
+            "lat": -31.83263,
+            "long": 115.968131
+        },
+        "suburb": "BRABHAM"
+    },
+    {
+        "name": "7-Eleven Bracken Ridge",
+        "coordinates": {
+            "lat": -27.330781,
+            "long": 153.025607
+        },
+        "suburb": "BRACKEN RIDGE"
+    },
+    {
+        "name": "7-Eleven Braddon",
+        "coordinates": {
+            "lat": -35.2704,
+            "long": 149.134
+        },
+        "suburb": "BRADDON"
+    },
+    {
+        "name": "7-Eleven Brandon Park",
+        "coordinates": {
+            "lat": -37.904237,
+            "long": 145.161486
+        },
+        "suburb": "BRANDON PARK"
+    },
+    {
+        "name": "7-Eleven Brassall",
+        "coordinates": {
+            "lat": -27.593456,
+            "long": 152.745655
+        },
+        "suburb": "BRASSALL"
+    },
+    {
+        "name": "7-Eleven Bray Park",
+        "coordinates": {
+            "lat": -27.291736,
+            "long": 152.954808
+        },
+        "suburb": "BRAY PARK"
+    },
+    {
+        "name": "7-Eleven Brisbane East",
+        "coordinates": {
+            "lat": -27.488440458164,
+            "long": 153.0487177756
+        },
+        "suburb": "BRISBANE EAST"
+    },
+    {
+        "name": "7-Eleven Broadbeach",
+        "coordinates": {
+            "lat": -28.035568,
+            "long": 153.425087
+        },
+        "suburb": "BROADBEACH"
+    },
+    {
+        "name": "7-Eleven Browns Plain",
+        "coordinates": {
+            "lat": -27.663916,
+            "long": 153.061411
+        },
+        "suburb": "BROWNS PLAIN"
+    },
+    {
+        "name": "7-Eleven Browns Plains",
+        "coordinates": {
+            "lat": -27.663801,
+            "long": 153.063345
+        },
+        "suburb": "BROWNS PLAINS"
+    },
+    {
+        "name": "7-Eleven Bungarribee",
+        "coordinates": {
+            "lat": -33.77097,
+            "long": 150.85895
+        },
+        "suburb": "BUNGARRIBEE"
+    },
+    {
+        "name": "7-Eleven Burdell",
+        "coordinates": {
+            "lat": -19.254775043266,
+            "long": 146.70222953822
+        },
+        "suburb": "BURDELL"
+    },
+    {
+        "name": "7-Eleven Burpengary",
+        "coordinates": {
+            "lat": -27.153745,
+            "long": 152.970774
+        },
+        "suburb": "BURPENGARY"
+    },
+    {
+        "name": "7-Eleven Burpengary East",
+        "coordinates": {
+            "lat": -27.139407,
+            "long": 152.982605
+        },
+        "suburb": "BURPENGARY EAST"
+    },
+    {
+        "name": "7-Eleven Burwood",
+        "coordinates": {
+            "lat": -33.869406,
+            "long": 151.108603
+        },
+        "suburb": "BURWOOD"
+    },
+    {
+        "name": "7-Eleven Bushland Beach",
+        "coordinates": {
+            "lat": -19.200499188393,
+            "long": 146.67363918651
+        },
+        "suburb": "BUSHLAND BEACH"
+    },
+    {
+        "name": "7-Eleven Busselton",
+        "coordinates": {
+            "lat": -33.654091,
+            "long": 115.341836
+        },
+        "suburb": "BUSSELTON"
+    },
+    {
+        "name": "7-Eleven Butler",
+        "coordinates": {
+            "lat": -31.635358,
+            "long": 115.705554
+        },
+        "suburb": "BUTLER"
+    },
+    {
+        "name": "7-Eleven Byford South",
+        "coordinates": {
+            "lat": -32.222095,
+            "long": 116.004699
+        },
+        "suburb": "BYFORD SOUTH"
+    },
+    {
+        "name": "7-Eleven Byford South",
+        "coordinates": {
+            "lat": -32.222078,
+            "long": 116.005916
+        },
+        "suburb": "BYFORD SOUTH"
+    },
+    {
+        "name": "7-Eleven Caboolture",
+        "coordinates": {
+            "lat": -27.077779,
+            "long": 152.950307
+        },
+        "suburb": "CABOOLTURE"
+    },
+    {
+        "name": "7-Eleven Caboolture East",
+        "coordinates": {
+            "lat": -27.086357,
+            "long": 152.965703
+        },
+        "suburb": "CABOOLTURE EAST"
+    },
+    {
+        "name": "7-Eleven Caboolture North",
+        "coordinates": {
+            "lat": -27.060574,
+            "long": 152.957606
+        },
+        "suburb": "CABOOLTURE NORTH"
+    },
+    {
+        "name": "7-Eleven Camberwell",
+        "coordinates": {
+            "lat": -37.833562,
+            "long": 145.077166
+        },
+        "suburb": "CAMBERWELL"
+    },
+    {
+        "name": "7-Eleven Campbellfield",
+        "coordinates": {
+            "lat": -37.674369,
+            "long": 144.955478
+        },
+        "suburb": "CAMPBELLFIELD"
+    },
+    {
+        "name": "7-Eleven Campbelltown",
+        "coordinates": {
+            "lat": -34.061876,
+            "long": 150.80945
+        },
+        "suburb": "CAMPBELLTOWN"
+    },
+    {
+        "name": "7-Eleven Campbelltown",
+        "coordinates": {
+            "lat": -34.06362,
+            "long": 150.817014
+        },
+        "suburb": "CAMPBELLTOWN"
+    },
+    {
+        "name": "7-Eleven Camperdown",
+        "coordinates": {
+            "lat": -33.88688,
+            "long": 151.174172
+        },
+        "suburb": "CAMPERDOWN"
+    },
+    {
+        "name": "7-Eleven Canning Vale",
+        "coordinates": {
+            "lat": -32.092476,
+            "long": 115.923934
+        },
+        "suburb": "CANNING VALE"
+    },
+    {
+        "name": "7-Eleven Carina",
+        "coordinates": {
+            "lat": -27.487514,
+            "long": 153.100141
+        },
+        "suburb": "CARINA"
+    },
+    {
+        "name": "7-Eleven Caringbah",
+        "coordinates": {
+            "lat": -34.039547,
+            "long": 151.120355
+        },
+        "suburb": "CARINGBAH"
+    },
+    {
+        "name": "7-Eleven Carlingford",
+        "coordinates": {
+            "lat": -33.782875,
+            "long": 151.045752
+        },
+        "suburb": "CARLINGFORD"
+    },
+    {
+        "name": "7-Eleven Carlisle",
+        "coordinates": {
+            "lat": -31.972129,
+            "long": 115.918857
+        },
+        "suburb": "CARLISLE"
+    },
+    {
+        "name": "7-Eleven Carlisle",
+        "coordinates": {
+            "lat": -31.971624,
+            "long": 115.918341
+        },
+        "suburb": "CARLISLE"
+    },
+    {
+        "name": "7-Eleven Carlton",
+        "coordinates": {
+            "lat": -33.98081,
+            "long": 151.119076
+        },
+        "suburb": "CARLTON"
+    },
+    {
+        "name": "7-Eleven Caroline Springs",
+        "coordinates": {
+            "lat": -37.729004,
+            "long": 144.741201
+        },
+        "suburb": "CAROLINE SPRINGS"
+    },
+    {
+        "name": "7-Eleven Carrara North",
+        "coordinates": {
+            "lat": -28.001337,
+            "long": 153.358402
+        },
+        "suburb": "CARRARA NORTH"
+    },
+    {
+        "name": "7-Eleven Carrara South",
+        "coordinates": {
+            "lat": -28.016192,
+            "long": 153.351675
+        },
+        "suburb": "CARRARA SOUTH"
+    },
+    {
+        "name": "7-Eleven Carrum Downs",
+        "coordinates": {
+            "lat": -38.104692,
+            "long": 145.167821
+        },
+        "suburb": "CARRUM DOWNS"
+    },
+    {
+        "name": "7-Eleven Casey",
+        "coordinates": {
+            "lat": -35.1756,
+            "long": 149.096
+        },
+        "suburb": "CASEY"
+    },
+    {
+        "name": "7-Eleven Castle Hill",
+        "coordinates": {
+            "lat": -33.734803,
+            "long": 151.003582
+        },
+        "suburb": "CASTLE HILL"
+    },
+    {
+        "name": "7-Eleven Casula",
+        "coordinates": {
+            "lat": -33.957141,
+            "long": 150.882875
+        },
+        "suburb": "CASULA"
+    },
+    {
+        "name": "7-Eleven Caulfield",
+        "coordinates": {
+            "lat": -37.886367,
+            "long": 145.022153
+        },
+        "suburb": "CAULFIELD"
+    },
+    {
+        "name": "7-Eleven Caversham",
+        "coordinates": {
+            "lat": -31.875469,
+            "long": 115.974566
+        },
+        "suburb": "CAVERSHAM"
+    },
+    {
+        "name": "7-Eleven Cessnock",
+        "coordinates": {
+            "lat": -32.83281,
+            "long": 151.353684
+        },
+        "suburb": "CESSNOCK"
+    },
+    {
+        "name": "7-Eleven Chadstone",
+        "coordinates": {
+            "lat": -37.876978,
+            "long": 145.086049
+        },
+        "suburb": "CHADSTONE"
+    },
+    {
+        "name": "7-Eleven Chandler",
+        "coordinates": {
+            "lat": -27.516443,
+            "long": 153.182137
+        },
+        "suburb": "CHANDLER"
+    },
+    {
+        "name": "7-Eleven Charlestown",
+        "coordinates": {
+            "lat": -32.958022,
+            "long": 151.689795
+        },
+        "suburb": "CHARLESTOWN"
+    },
+    {
+        "name": "7-Eleven Chirnside Park",
+        "coordinates": {
+            "lat": -37.760246,
+            "long": 145.312524
+        },
+        "suburb": "CHIRNSIDE PARK"
+    },
+    {
+        "name": "7-Eleven Clarinda",
+        "coordinates": {
+            "lat": -37.926582,
+            "long": 145.100792
+        },
+        "suburb": "CLARINDA"
+    },
+    {
+        "name": "7-Eleven Clayton",
+        "coordinates": {
+            "lat": -37.913229,
+            "long": 145.121708
+        },
+        "suburb": "CLAYTON"
+    },
+    {
+        "name": "7-Eleven Cleveland",
+        "coordinates": {
+            "lat": -27.524569,
+            "long": 153.256304
+        },
+        "suburb": "CLEVELAND"
+    },
+    {
+        "name": "7-Eleven Clifton Hill",
+        "coordinates": {
+            "lat": -37.791206,
+            "long": 144.994914
+        },
+        "suburb": "CLIFTON HILL"
+    },
+    {
+        "name": "7-Eleven Clontarf",
+        "coordinates": {
+            "lat": -27.260631,
+            "long": 153.079761
+        },
+        "suburb": "CLONTARF"
+    },
+    {
+        "name": "7-Eleven Coburg East",
+        "coordinates": {
+            "lat": -37.742474,
+            "long": 144.979587
+        },
+        "suburb": "COBURG EAST"
+    },
+    {
+        "name": "7-Eleven Cockburn Central",
+        "coordinates": {
+            "lat": -32.120001,
+            "long": 115.846548
+        },
+        "suburb": "COCKBURN CENTRAL"
+    },
+    {
+        "name": "7-Eleven Colyton",
+        "coordinates": {
+            "lat": -33.775081,
+            "long": 150.793593
+        },
+        "suburb": "COLYTON"
+    },
+    {
+        "name": "7-Eleven Compton Rd",
+        "coordinates": {
+            "lat": -27.610924,
+            "long": 153.062497
+        },
+        "suburb": "COMPTON RD"
+    },
+    {
+        "name": "7-Eleven Coolaroo",
+        "coordinates": {
+            "lat": -37.662764,
+            "long": 144.923148
+        },
+        "suburb": "COOLAROO"
+    },
+    {
+        "name": "7-Eleven Coolum Beach",
+        "coordinates": {
+            "lat": -26.536159,
+            "long": 153.078624
+        },
+        "suburb": "COOLUM BEACH"
+    },
+    {
+        "name": "7-Eleven Coomera",
+        "coordinates": {
+            "lat": -27.868591,
+            "long": 153.314106
+        },
+        "suburb": "COOMERA"
+    },
+    {
+        "name": "7-Eleven Coopers Plains",
+        "coordinates": {
+            "lat": -27.563791,
+            "long": 153.039913
+        },
+        "suburb": "COOPERS PLAINS"
+    },
+    {
+        "name": "7-Eleven Corio",
+        "coordinates": {
+            "lat": -38.074398,
+            "long": 144.358196
+        },
+        "suburb": "CORIO"
+    },
+    {
+        "name": "7-Eleven Cornubia",
+        "coordinates": {
+            "lat": -27.670222149977,
+            "long": 153.20304614329
+        },
+        "suburb": "CORNUBIA"
+    },
+    {
+        "name": "7-Eleven Corrimal",
+        "coordinates": {
+            "lat": -34.369863,
+            "long": 150.897816
+        },
+        "suburb": "CORRIMAL"
+    },
+    {
+        "name": "7-Eleven Craigieburn",
+        "coordinates": {
+            "lat": -37.596602,
+            "long": 144.920709
+        },
+        "suburb": "CRAIGIEBURN"
+    },
+    {
+        "name": "7-Eleven Cranbourne Amstel",
+        "coordinates": {
+            "lat": -38.110579,
+            "long": 145.258957
+        },
+        "suburb": "CRANBOURNE AMSTEL"
+    },
+    {
+        "name": "7-Eleven Cranbourne North",
+        "coordinates": {
+            "lat": -38.074403,
+            "long": 145.272444
+        },
+        "suburb": "CRANBOURNE NORTH"
+    },
+    {
+        "name": "7-Eleven Cranbourne South",
+        "coordinates": {
+            "lat": -38.129718,
+            "long": 145.293527
+        },
+        "suburb": "CRANBOURNE SOUTH"
+    },
+    {
+        "name": "7-Eleven Cranbourne West",
+        "coordinates": {
+            "lat": -38.093047,
+            "long": 145.255303
+        },
+        "suburb": "CRANBOURNE WEST"
+    },
+    {
+        "name": "7-Eleven Cranebrook",
+        "coordinates": {
+            "lat": -33.730588,
+            "long": 150.695165
+        },
+        "suburb": "CRANEBROOK"
+    },
+    {
+        "name": "7-Eleven Croydon",
+        "coordinates": {
+            "lat": -37.803829,
+            "long": 145.289518
+        },
+        "suburb": "CROYDON"
+    },
+    {
+        "name": "7-Eleven Croydon East",
+        "coordinates": {
+            "lat": -37.801916,
+            "long": 145.308516
+        },
+        "suburb": "CROYDON EAST"
+    },
+    {
+        "name": "7-Eleven Croydon Hills",
+        "coordinates": {
+            "lat": -37.783302,
+            "long": 145.267577
+        },
+        "suburb": "CROYDON HILLS"
+    },
+    {
+        "name": "7-Eleven Croydon Park",
+        "coordinates": {
+            "lat": -33.897617,
+            "long": 151.099796
+        },
+        "suburb": "CROYDON PARK"
+    },
+    {
+        "name": "7-Eleven Croydon Park",
+        "coordinates": {
+            "lat": -33.894381,
+            "long": 151.111446
+        },
+        "suburb": "CROYDON PARK"
+    },
+    {
+        "name": "7-Eleven Dakabin",
+        "coordinates": {
+            "lat": -27.232903,
+            "long": 152.992121
+        },
+        "suburb": "DAKABIN"
+    },
+    {
+        "name": "7-Eleven Dandenong",
+        "coordinates": {
+            "lat": -37.985187,
+            "long": 145.220582
+        },
+        "suburb": "DANDENONG"
+    },
+    {
+        "name": "7-Eleven Dandenong North",
+        "coordinates": {
+            "lat": -37.969789,
+            "long": 145.211356
+        },
+        "suburb": "DANDENONG NORTH"
+    },
+    {
+        "name": "7-Eleven Dapto",
+        "coordinates": {
+            "lat": -34.498772,
+            "long": 150.791405
+        },
+        "suburb": "DAPTO"
+    },
+    {
+        "name": "7-Eleven Darling Heights",
+        "coordinates": {
+            "lat": -27.591904,
+            "long": 151.937484
+        },
+        "suburb": "DARLING HEIGHTS"
+    },
+    {
+        "name": "7-Eleven Deagon",
+        "coordinates": {
+            "lat": -27.328205,
+            "long": 153.053681
+        },
+        "suburb": "DEAGON"
+    },
+    {
+        "name": "7-Eleven Deception Bay",
+        "coordinates": {
+            "lat": -27.196802,
+            "long": 153.015549
+        },
+        "suburb": "DECEPTION BAY"
+    },
+    {
+        "name": "7-Eleven Dee Why",
+        "coordinates": {
+            "lat": -33.749095,
+            "long": 151.290234
+        },
+        "suburb": "DEE WHY"
+    },
+    {
+        "name": "7-Eleven Dingley",
+        "coordinates": {
+            "lat": -37.973376,
+            "long": 145.120628
+        },
+        "suburb": "DINGLEY"
+    },
+    {
+        "name": "7-Eleven Dinmore",
+        "coordinates": {
+            "lat": -27.598144,
+            "long": 152.832217
+        },
+        "suburb": "DINMORE"
+    },
+    {
+        "name": "7-Eleven Donvale",
+        "coordinates": {
+            "lat": -37.797315,
+            "long": 145.180013
+        },
+        "suburb": "DONVALE"
+    },
+    {
+        "name": "7-Eleven Doolandella",
+        "coordinates": {
+            "lat": -27.612464,
+            "long": 152.987502
+        },
+        "suburb": "DOOLANDELLA"
+    },
+    {
+        "name": "7-Eleven Dromana",
+        "coordinates": {
+            "lat": -38.335419,
+            "long": 144.959651
+        },
+        "suburb": "DROMANA"
+    },
+    {
+        "name": "7-Eleven Drummoyne",
+        "coordinates": {
+            "lat": -33.84723,
+            "long": 151.151612
+        },
+        "suburb": "DRUMMOYNE"
+    },
+    {
+        "name": "7-Eleven Durack",
+        "coordinates": {
+            "lat": -27.579277,
+            "long": 152.974407
+        },
+        "suburb": "DURACK"
+    },
+    {
+        "name": "7-Eleven Eagleby",
+        "coordinates": {
+            "lat": -27.702006,
+            "long": 153.211076
+        },
+        "suburb": "EAGLEBY"
+    },
+    {
+        "name": "7-Eleven East Beenleigh",
+        "coordinates": {
+            "lat": -27.713471,
+            "long": 153.185016
+        },
+        "suburb": "EAST BEENLEIGH"
+    },
+    {
+        "name": "7-Eleven East Brisbane",
+        "coordinates": {
+            "lat": -27.485063,
+            "long": 153.040078
+        },
+        "suburb": "EAST BRISBANE"
+    },
+    {
+        "name": "7-Eleven East Maitland",
+        "coordinates": {
+            "lat": -32.744809,
+            "long": 151.583857
+        },
+        "suburb": "EAST MAITLAND"
+    },
+    {
+        "name": "7-Eleven East Malvern",
+        "coordinates": {
+            "lat": -37.870154,
+            "long": 145.060728
+        },
+        "suburb": "EAST MALVERN"
+    },
+    {
+        "name": "7-Eleven East Werribee",
+        "coordinates": {
+            "lat": -37.893027,
+            "long": 144.630494
+        },
+        "suburb": "EAST WERRIBEE"
+    },
+    {
+        "name": "7-Eleven Eastern Creek",
+        "coordinates": {
+            "lat": -33.787953,
+            "long": 150.849664
+        },
+        "suburb": "EASTERN CREEK"
+    },
+    {
+        "name": "7-Eleven Eatons Hill",
+        "coordinates": {
+            "lat": -27.337663,
+            "long": 152.960219
+        },
+        "suburb": "EATONS HILL"
+    },
+    {
+        "name": "7-Eleven Eden&#8217;s Crossing",
+        "coordinates": {
+            "lat": -27.657725,
+            "long": 152.837825
+        },
+        "suburb": "EDEN&#8217;S CROSSING"
+    },
+    {
+        "name": "7-Eleven Edensor Park",
+        "coordinates": {
+            "lat": -33.883376,
+            "long": 150.864788
+        },
+        "suburb": "EDENSOR PARK"
+    },
+    {
+        "name": "7-Eleven Edgeworth",
+        "coordinates": {
+            "lat": -32.92358,
+            "long": 151.621225
+        },
+        "suburb": "EDGEWORTH"
+    },
+    {
+        "name": "7-Eleven Edmondson Park",
+        "coordinates": {
+            "lat": -33.955169,
+            "long": 150.85711
+        },
+        "suburb": "EDMONDSON PARK"
+    },
+    {
+        "name": "7-Eleven Eight Mile Plains",
+        "coordinates": {
+            "lat": -27.585448,
+            "long": 153.103745
+        },
+        "suburb": "EIGHT MILE PLAINS"
+    },
+    {
+        "name": "7-Eleven Eight Mile Plains Northbound",
+        "coordinates": {
+            "lat": -27.573683,
+            "long": 153.090739
+        },
+        "suburb": "EIGHT MILE PLAINS NORTHBOUND"
+    },
+    {
+        "name": "7-Eleven Eltham",
+        "coordinates": {
+            "lat": -37.687573,
+            "long": 145.143028
+        },
+        "suburb": "ELTHAM"
+    },
+    {
+        "name": "7-Eleven Eltham West",
+        "coordinates": {
+            "lat": -37.716331,
+            "long": 145.136983
+        },
+        "suburb": "ELTHAM WEST"
+    },
+    {
+        "name": "7-Eleven Emerald Hills",
+        "coordinates": {
+            "lat": -33.99533,
+            "long": 150.789746
+        },
+        "suburb": "EMERALD HILLS"
+    },
+    {
+        "name": "7-Eleven Emerton",
+        "coordinates": {
+            "lat": -33.744639,
+            "long": 150.810225
+        },
+        "suburb": "EMERTON"
+    },
+    {
+        "name": "7-Eleven Emu Plains",
+        "coordinates": {
+            "lat": -33.748121,
+            "long": 150.654108
+        },
+        "suburb": "EMU PLAINS"
+    },
+    {
+        "name": "7-Eleven Emu Plains",
+        "coordinates": {
+            "lat": -33.746491,
+            "long": 150.676178
+        },
+        "suburb": "EMU PLAINS"
+    },
+    {
+        "name": "7-Eleven Endeavour Hills",
+        "coordinates": {
+            "lat": -37.973596,
+            "long": 145.242613
+        },
+        "suburb": "ENDEAVOUR HILLS"
+    },
+    {
+        "name": "7-Eleven Enmore",
+        "coordinates": {
+            "lat": -33.899206,
+            "long": 151.170186
+        },
+        "suburb": "ENMORE"
+    },
+    {
+        "name": "7-Eleven Enmore",
+        "coordinates": {
+            "lat": -33.898417,
+            "long": 151.169933
+        },
+        "suburb": "ENMORE"
+    },
+    {
+        "name": "7-Eleven Epping",
+        "coordinates": {
+            "lat": -33.770913,
+            "long": 151.081199
+        },
+        "suburb": "EPPING"
+    },
+    {
+        "name": "7-Eleven Epping",
+        "coordinates": {
+            "lat": -37.660049,
+            "long": 145.024227
+        },
+        "suburb": "EPPING"
+    },
+    {
+        "name": "7-Eleven Epping",
+        "coordinates": {
+            "lat": -37.660456,
+            "long": 145.029994
+        },
+        "suburb": "EPPING"
+    },
+    {
+        "name": "7-Eleven Epping North",
+        "coordinates": {
+            "lat": -37.651531,
+            "long": 145.023487
+        },
+        "suburb": "EPPING NORTH"
+    },
+    {
+        "name": "7-Eleven Erina",
+        "coordinates": {
+            "lat": -33.434942,
+            "long": 151.387952
+        },
+        "suburb": "ERINA"
+    },
+    {
+        "name": "7-Eleven Everton Hills",
+        "coordinates": {
+            "lat": -27.390843,
+            "long": 152.971869
+        },
+        "suburb": "EVERTON HILLS"
+    },
+    {
+        "name": "7-Eleven Fairfield",
+        "coordinates": {
+            "lat": -33.859467,
+            "long": 150.922616
+        },
+        "suburb": "FAIRFIELD"
+    },
+    {
+        "name": "7-Eleven Fairfield",
+        "coordinates": {
+            "lat": -37.780343,
+            "long": 145.032534
+        },
+        "suburb": "FAIRFIELD"
+    },
+    {
+        "name": "7-Eleven Fairfield East",
+        "coordinates": {
+            "lat": -37.765884,
+            "long": 145.019849
+        },
+        "suburb": "FAIRFIELD EAST"
+    },
+    {
+        "name": "7-Eleven Fairfield Gardens",
+        "coordinates": {
+            "lat": -27.508579,
+            "long": 153.025269
+        },
+        "suburb": "FAIRFIELD GARDENS"
+    },
+    {
+        "name": "7-Eleven Fairfield West",
+        "coordinates": {
+            "lat": -33.872141,
+            "long": 150.937268
+        },
+        "suburb": "FAIRFIELD WEST"
+    },
+    {
+        "name": "7-Eleven Fitzroy",
+        "coordinates": {
+            "lat": -37.797675,
+            "long": 144.975332
+        },
+        "suburb": "FITZROY"
+    },
+    {
+        "name": "7-Eleven Five Dock",
+        "coordinates": {
+            "lat": -33.86491,
+            "long": 151.130081
+        },
+        "suburb": "FIVE DOCK"
+    },
+    {
+        "name": "7-Eleven Five Ways",
+        "coordinates": {
+            "lat": -38.158866,
+            "long": 145.318739
+        },
+        "suburb": "FIVE WAYS"
+    },
+    {
+        "name": "7-Eleven Flagstone",
+        "coordinates": {
+            "lat": -27.812621,
+            "long": 152.977528
+        },
+        "suburb": "FLAGSTONE"
+    },
+    {
+        "name": "7-Eleven Flagstone Central",
+        "coordinates": {
+            "lat": -27.808459,
+            "long": 152.951071
+        },
+        "suburb": "FLAGSTONE CENTRAL"
+    },
+    {
+        "name": "7-Eleven Flemington",
+        "coordinates": {
+            "lat": -37.789022,
+            "long": 144.941097
+        },
+        "suburb": "FLEMINGTON"
+    },
+    {
+        "name": "7-Eleven Flemington",
+        "coordinates": {
+            "lat": -37.789397,
+            "long": 144.939789
+        },
+        "suburb": "FLEMINGTON"
+    },
+    {
+        "name": "7-Eleven Flinders View",
+        "coordinates": {
+            "lat": -27.653717,
+            "long": 152.763016
+        },
+        "suburb": "FLINDERS VIEW"
+    },
+    {
+        "name": "7-Eleven Footscray West",
+        "coordinates": {
+            "lat": -37.811255,
+            "long": 144.867591
+        },
+        "suburb": "FOOTSCRAY WEST"
+    },
+    {
+        "name": "7-Eleven Forrestdale",
+        "coordinates": {
+            "lat": -32.123564,
+            "long": 115.956257
+        },
+        "suburb": "FORRESTDALE"
+    },
+    {
+        "name": "7-Eleven Frankston",
+        "coordinates": {
+            "lat": -38.147409,
+            "long": 145.135712
+        },
+        "suburb": "FRANKSTON"
+    },
+    {
+        "name": "7-Eleven Fyshwick",
+        "coordinates": {
+            "lat": -35.3251,
+            "long": 149.154
+        },
+        "suburb": "FYSHWICK"
+    },
+    {
+        "name": "7-Eleven Gateshead",
+        "coordinates": {
+            "lat": -32.987353,
+            "long": 151.69179
+        },
+        "suburb": "GATESHEAD"
+    },
+    {
+        "name": "7-Eleven Gaven",
+        "coordinates": {
+            "lat": -27.926311,
+            "long": 153.323783
+        },
+        "suburb": "GAVEN"
+    },
+    {
+        "name": "7-Eleven Gaythorne",
+        "coordinates": {
+            "lat": -27.416945,
+            "long": 152.982146
+        },
+        "suburb": "GAYTHORNE"
+    },
+    {
+        "name": "7-Eleven Geelong",
+        "coordinates": {
+            "lat": -38.151808,
+            "long": 144.367621
+        },
+        "suburb": "GEELONG"
+    },
+    {
+        "name": "7-Eleven Geelong South",
+        "coordinates": {
+            "lat": -38.153598,
+            "long": 144.351881
+        },
+        "suburb": "GEELONG SOUTH"
+    },
+    {
+        "name": "7-Eleven Georges Hall",
+        "coordinates": {
+            "lat": -33.915626,
+            "long": 150.997738
+        },
+        "suburb": "GEORGES HALL"
+    },
+    {
+        "name": "7-Eleven Giralang",
+        "coordinates": {
+            "lat": -35.2136,
+            "long": 149.096
+        },
+        "suburb": "GIRALANG"
+    },
+    {
+        "name": "7-Eleven Glen Waverley",
+        "coordinates": {
+            "lat": -37.886315,
+            "long": 145.146225
+        },
+        "suburb": "GLEN WAVERLEY"
+    },
+    {
+        "name": "7-Eleven Glen Waverley",
+        "coordinates": {
+            "lat": -37.889036,
+            "long": 145.164882
+        },
+        "suburb": "GLEN WAVERLEY"
+    },
+    {
+        "name": "7-Eleven Glendale",
+        "coordinates": {
+            "lat": -32.933927,
+            "long": 151.656206
+        },
+        "suburb": "GLENDALE"
+    },
+    {
+        "name": "7-Eleven Golden Bay",
+        "coordinates": {
+            "lat": -32.420777,
+            "long": 115.761055
+        },
+        "suburb": "GOLDEN BAY"
+    },
+    {
+        "name": "7-Eleven Gosford West",
+        "coordinates": {
+            "lat": -33.427077,
+            "long": 151.33001
+        },
+        "suburb": "GOSFORD WEST"
+    },
+    {
+        "name": "7-Eleven Gosnells",
+        "coordinates": {
+            "lat": -32.089802,
+            "long": 115.998682
+        },
+        "suburb": "GOSNELLS"
+    },
+    {
+        "name": "7-Eleven Goulburn",
+        "coordinates": {
+            "lat": -34.756539,
+            "long": 149.712291
+        },
+        "suburb": "GOULBURN"
+    },
+    {
+        "name": "7-Eleven Graceville",
+        "coordinates": {
+            "lat": -27.522231,
+            "long": 152.980374
+        },
+        "suburb": "GRACEVILLE"
+    },
+    {
+        "name": "7-Eleven Granville",
+        "coordinates": {
+            "lat": -33.830128,
+            "long": 151.01003
+        },
+        "suburb": "GRANVILLE"
+    },
+    {
+        "name": "7-Eleven Granville East",
+        "coordinates": {
+            "lat": -33.835001,
+            "long": 151.021825
+        },
+        "suburb": "GRANVILLE EAST"
+    },
+    {
+        "name": "7-Eleven Green Point",
+        "coordinates": {
+            "lat": -33.462598,
+            "long": 151.363938
+        },
+        "suburb": "GREEN POINT"
+    },
+    {
+        "name": "7-Eleven Green Valley",
+        "coordinates": {
+            "lat": -33.907829,
+            "long": 150.865922
+        },
+        "suburb": "GREEN VALLEY"
+    },
+    {
+        "name": "7-Eleven Greenacre",
+        "coordinates": {
+            "lat": -33.905247,
+            "long": 151.041867
+        },
+        "suburb": "GREENACRE"
+    },
+    {
+        "name": "7-Eleven Greenbank",
+        "coordinates": {
+            "lat": -27.738356,
+            "long": 152.984236
+        },
+        "suburb": "GREENBANK"
+    },
+    {
+        "name": "7-Eleven Greenfields",
+        "coordinates": {
+            "lat": -32.520256,
+            "long": 115.753611
+        },
+        "suburb": "GREENFIELDS"
+    },
+    {
+        "name": "7-Eleven Greenfields South",
+        "coordinates": {
+            "lat": -32.537744,
+            "long": 115.757395
+        },
+        "suburb": "GREENFIELDS SOUTH"
+    },
+    {
+        "name": "7-Eleven Greenslopes",
+        "coordinates": {
+            "lat": -27.504372,
+            "long": 153.040329
+        },
+        "suburb": "GREENSLOPES"
+    },
+    {
+        "name": "7-Eleven Gregory Hills",
+        "coordinates": {
+            "lat": -34.024252,
+            "long": 150.759008
+        },
+        "suburb": "GREGORY HILLS"
+    },
+    {
+        "name": "7-Eleven Greystanes",
+        "coordinates": {
+            "lat": -33.808609,
+            "long": 150.935941
+        },
+        "suburb": "GREYSTANES"
+    },
+    {
+        "name": "7-Eleven Griffin",
+        "coordinates": {
+            "lat": -27.260371,
+            "long": 153.024253
+        },
+        "suburb": "GRIFFIN"
+    },
+    {
+        "name": "7-Eleven Guildford",
+        "coordinates": {
+            "lat": -33.848168,
+            "long": 150.996937
+        },
+        "suburb": "GUILDFORD"
+    },
+    {
+        "name": "7-Eleven Guildford West",
+        "coordinates": {
+            "lat": -33.851431,
+            "long": 150.972137
+        },
+        "suburb": "GUILDFORD WEST"
+    },
+    {
+        "name": "7-Eleven Gumdale",
+        "coordinates": {
+            "lat": -27.491243,
+            "long": 153.153114
+        },
+        "suburb": "GUMDALE"
+    },
+    {
+        "name": "7-Eleven Gymea",
+        "coordinates": {
+            "lat": -34.037679,
+            "long": 151.084491
+        },
+        "suburb": "GYMEA"
+    },
+    {
+        "name": "7-Eleven Haberfield",
+        "coordinates": {
+            "lat": -33.887908,
+            "long": 151.142813
+        },
+        "suburb": "HABERFIELD"
+    },
+    {
+        "name": "7-Eleven Hallam",
+        "coordinates": {
+            "lat": -38.002283,
+            "long": 145.273728
+        },
+        "suburb": "HALLAM"
+    },
+    {
+        "name": "7-Eleven Hallam",
+        "coordinates": {
+            "lat": -38.011494,
+            "long": 145.272602
+        },
+        "suburb": "HALLAM"
+    },
+    {
+        "name": "7-Eleven Hampton",
+        "coordinates": {
+            "lat": -37.932178,
+            "long": 145.024555
+        },
+        "suburb": "HAMPTON"
+    },
+    {
+        "name": "7-Eleven Hampton Park",
+        "coordinates": {
+            "lat": -38.030208,
+            "long": 145.280828
+        },
+        "suburb": "HAMPTON PARK"
+    },
+    {
+        "name": "7-Eleven Harrisdale",
+        "coordinates": {
+            "lat": -32.125599,
+            "long": 115.92601
+        },
+        "suburb": "HARRISDALE"
+    },
+    {
+        "name": "7-Eleven Harristown",
+        "coordinates": {
+            "lat": -27.576093,
+            "long": 151.939518
+        },
+        "suburb": "HARRISTOWN"
+    },
+    {
+        "name": "7-Eleven Hassall Grove",
+        "coordinates": {
+            "lat": -33.735368,
+            "long": 150.836663
+        },
+        "suburb": "HASSALL GROVE"
+    },
+    {
+        "name": "7-Eleven Hastings",
+        "coordinates": {
+            "lat": -38.284728,
+            "long": 145.184312
+        },
+        "suburb": "HASTINGS"
+    },
+    {
+        "name": "7-Eleven Hawthorn",
+        "coordinates": {
+            "lat": -37.813976,
+            "long": 145.022385
+        },
+        "suburb": "HAWTHORN"
+    },
+    {
+        "name": "7-Eleven Hawthorn",
+        "coordinates": {
+            "lat": -37.814807,
+            "long": 145.037241
+        },
+        "suburb": "HAWTHORN"
+    },
+    {
+        "name": "7-Eleven Hawthorn",
+        "coordinates": {
+            "lat": -37.824173,
+            "long": 145.035006
+        },
+        "suburb": "HAWTHORN"
+    },
+    {
+        "name": "7-Eleven Hawthorn East",
+        "coordinates": {
+            "lat": -37.844645,
+            "long": 145.041909
+        },
+        "suburb": "HAWTHORN EAST"
+    },
+    {
+        "name": "7-Eleven Haynes",
+        "coordinates": {
+            "lat": -32.147416,
+            "long": 115.986285
+        },
+        "suburb": "HAYNES"
+    },
+    {
+        "name": "7-Eleven Haynes",
+        "coordinates": {
+            "lat": -32.147485,
+            "long": 115.984399
+        },
+        "suburb": "HAYNES"
+    },
+    {
+        "name": "7-Eleven Heatherbrae",
+        "coordinates": {
+            "lat": -32.791312,
+            "long": 151.725301
+        },
+        "suburb": "HEATHERBRAE"
+    },
+    {
+        "name": "7-Eleven Heathwood",
+        "coordinates": {
+            "lat": -27.630682,
+            "long": 152.986412
+        },
+        "suburb": "HEATHWOOD"
+    },
+    {
+        "name": "7-Eleven Heidelberg",
+        "coordinates": {
+            "lat": -37.756715,
+            "long": 145.069449
+        },
+        "suburb": "HEIDELBERG"
+    },
+    {
+        "name": "7-Eleven Helensvale",
+        "coordinates": {
+            "lat": -27.895517,
+            "long": 153.326797
+        },
+        "suburb": "HELENSVALE"
+    },
+    {
+        "name": "7-Eleven Heritage Park",
+        "coordinates": {
+            "lat": -27.673313,
+            "long": 153.053292
+        },
+        "suburb": "HERITAGE PARK"
+    },
+    {
+        "name": "7-Eleven Highfields",
+        "coordinates": {
+            "lat": -27.474063,
+            "long": 151.940123
+        },
+        "suburb": "HIGHFIELDS"
+    },
+    {
+        "name": "7-Eleven Hillcrest",
+        "coordinates": {
+            "lat": -27.663718,
+            "long": 153.034794
+        },
+        "suburb": "HILLCREST"
+    },
+    {
+        "name": "7-Eleven Holmview",
+        "coordinates": {
+            "lat": -27.709766,
+            "long": 153.160989
+        },
+        "suburb": "HOLMVIEW"
+    },
+    {
+        "name": "7-Eleven Holt",
+        "coordinates": {
+            "lat": -35.2207,
+            "long": 149.018
+        },
+        "suburb": "HOLT"
+    },
+    {
+        "name": "7-Eleven Hope Island",
+        "coordinates": {
+            "lat": -27.880647,
+            "long": 153.334097
+        },
+        "suburb": "HOPE ISLAND"
+    },
+    {
+        "name": "7-Eleven Hoppers Crossing",
+        "coordinates": {
+            "lat": -37.880079,
+            "long": 144.704171
+        },
+        "suburb": "HOPPERS CROSSING"
+    },
+    {
+        "name": "7-Eleven Hoppers Crossing",
+        "coordinates": {
+            "lat": -37.851087,
+            "long": 144.706793
+        },
+        "suburb": "HOPPERS CROSSING"
+    },
+    {
+        "name": "7-Eleven Hoppers Crossing",
+        "coordinates": {
+            "lat": -37.865095,
+            "long": 144.732247
+        },
+        "suburb": "HOPPERS CROSSING"
+    },
+    {
+        "name": "7-Eleven Hurlstone Park",
+        "coordinates": {
+            "lat": -33.905043,
+            "long": 151.130108
+        },
+        "suburb": "HURLSTONE PARK"
+    },
+    {
+        "name": "7-Eleven Ingleburn",
+        "coordinates": {
+            "lat": -33.99995,
+            "long": 150.86794
+        },
+        "suburb": "INGLEBURN"
+    },
+    {
+        "name": "7-Eleven Ingleburn",
+        "coordinates": {
+            "lat": -33.98932,
+            "long": 150.866828
+        },
+        "suburb": "INGLEBURN"
+    },
+    {
+        "name": "7-Eleven Jamisontown",
+        "coordinates": {
+            "lat": -33.766148,
+            "long": 150.679467
+        },
+        "suburb": "JAMISONTOWN"
+    },
+    {
+        "name": "7-Eleven Jerrabomberra",
+        "coordinates": {
+            "lat": -35.380474,
+            "long": 149.196177
+        },
+        "suburb": "JERRABOMBERRA"
+    },
+    {
+        "name": "7-Eleven Jindalee",
+        "coordinates": {
+            "lat": -27.536327,
+            "long": 152.949176
+        },
+        "suburb": "JINDALEE"
+    },
+    {
+        "name": "7-Eleven Joondalup",
+        "coordinates": {
+            "lat": -31.753934,
+            "long": 115.765241
+        },
+        "suburb": "JOONDALUP"
+    },
+    {
+        "name": "7-Eleven Kallangur",
+        "coordinates": {
+            "lat": -27.251504,
+            "long": 152.991495
+        },
+        "suburb": "KALLANGUR"
+    },
+    {
+        "name": "7-Eleven Kanwal",
+        "coordinates": {
+            "lat": -33.252865,
+            "long": 151.493174
+        },
+        "suburb": "KANWAL"
+    },
+    {
+        "name": "7-Eleven Karabar",
+        "coordinates": {
+            "lat": -35.371414,
+            "long": 149.232741
+        },
+        "suburb": "KARABAR"
+    },
+    {
+        "name": "7-Eleven Kardinya",
+        "coordinates": {
+            "lat": -32.067327,
+            "long": 115.815185
+        },
+        "suburb": "KARDINYA"
+    },
+    {
+        "name": "7-Eleven Karingal",
+        "coordinates": {
+            "lat": -38.154096,
+            "long": 145.163474
+        },
+        "suburb": "KARINGAL"
+    },
+    {
+        "name": "7-Eleven Keilor East",
+        "coordinates": {
+            "lat": -37.748757,
+            "long": 144.861926
+        },
+        "suburb": "KEILOR EAST"
+    },
+    {
+        "name": "7-Eleven Kellyville",
+        "coordinates": {
+            "lat": -33.712414,
+            "long": 150.956801
+        },
+        "suburb": "KELLYVILLE"
+    },
+    {
+        "name": "7-Eleven Kelmscott",
+        "coordinates": {
+            "lat": -32.128692,
+            "long": 116.000153
+        },
+        "suburb": "KELMSCOTT"
+    },
+    {
+        "name": "7-Eleven Kelmscott",
+        "coordinates": {
+            "lat": -32.128644,
+            "long": 115.999775
+        },
+        "suburb": "KELMSCOTT"
+    },
+    {
+        "name": "7-Eleven Kelmscott Central",
+        "coordinates": {
+            "lat": -32.118987,
+            "long": 116.017576
+        },
+        "suburb": "KELMSCOTT CENTRAL"
+    },
+    {
+        "name": "7-Eleven Kelso",
+        "coordinates": {
+            "lat": -33.418418,
+            "long": 149.606234
+        },
+        "suburb": "KELSO"
+    },
+    {
+        "name": "7-Eleven Kensington",
+        "coordinates": {
+            "lat": -33.907017,
+            "long": 151.223796
+        },
+        "suburb": "KENSINGTON"
+    },
+    {
+        "name": "7-Eleven Kensington",
+        "coordinates": {
+            "lat": -33.910008,
+            "long": 151.223177
+        },
+        "suburb": "KENSINGTON"
+    },
+    {
+        "name": "7-Eleven Kensington Hills",
+        "coordinates": {
+            "lat": -27.296781,
+            "long": 152.975324
+        },
+        "suburb": "KENSINGTON HILLS"
+    },
+    {
+        "name": "7-Eleven Keperra",
+        "coordinates": {
+            "lat": -27.419118,
+            "long": 152.949081
+        },
+        "suburb": "KEPERRA"
+    },
+    {
+        "name": "7-Eleven Keysborough",
+        "coordinates": {
+            "lat": -37.994267,
+            "long": 145.176009
+        },
+        "suburb": "KEYSBOROUGH"
+    },
+    {
+        "name": "7-Eleven Keysborough",
+        "coordinates": {
+            "lat": -37.990863,
+            "long": 145.149344
+        },
+        "suburb": "KEYSBOROUGH"
+    },
+    {
+        "name": "7-Eleven Killara",
+        "coordinates": {
+            "lat": -33.771365,
+            "long": 151.16108
+        },
+        "suburb": "KILLARA"
+    },
+    {
+        "name": "7-Eleven Kilsyth",
+        "coordinates": {
+            "lat": -37.817375,
+            "long": 145.317336
+        },
+        "suburb": "KILSYTH"
+    },
+    {
+        "name": "7-Eleven Kincumber",
+        "coordinates": {
+            "lat": -33.467858,
+            "long": 151.38063
+        },
+        "suburb": "KINCUMBER"
+    },
+    {
+        "name": "7-Eleven Kings Park",
+        "coordinates": {
+            "lat": -33.7466,
+            "long": 150.90688
+        },
+        "suburb": "KINGS PARK"
+    },
+    {
+        "name": "7-Eleven Kingston",
+        "coordinates": {
+            "lat": -27.644708,
+            "long": 153.117947
+        },
+        "suburb": "KINGSTON"
+    },
+    {
+        "name": "7-Eleven Kingston South",
+        "coordinates": {
+            "lat": -27.660069,
+            "long": 153.117298
+        },
+        "suburb": "KINGSTON SOUTH"
+    },
+    {
+        "name": "7-Eleven Kingswood",
+        "coordinates": {
+            "lat": -33.760042,
+            "long": 150.725914
+        },
+        "suburb": "KINGSWOOD"
+    },
+    {
+        "name": "7-Eleven Kirrawee",
+        "coordinates": {
+            "lat": -34.032382,
+            "long": 151.075805
+        },
+        "suburb": "KIRRAWEE"
+    },
+    {
+        "name": "7-Eleven Kirrawee",
+        "coordinates": {
+            "lat": -34.031465,
+            "long": 151.076694
+        },
+        "suburb": "KIRRAWEE"
+    },
+    {
+        "name": "7-Eleven Kogarah",
+        "coordinates": {
+            "lat": -33.964176,
+            "long": 151.137582
+        },
+        "suburb": "KOGARAH"
+    },
+    {
+        "name": "7-Eleven Labrador",
+        "coordinates": {
+            "lat": -27.948825,
+            "long": 153.408086
+        },
+        "suburb": "LABRADOR"
+    },
+    {
+        "name": "7-Eleven Lake Illawarra",
+        "coordinates": {
+            "lat": -34.54386,
+            "long": 150.863624
+        },
+        "suburb": "LAKE ILLAWARRA"
+    },
+    {
+        "name": "7-Eleven Lakemba",
+        "coordinates": {
+            "lat": -33.933571,
+            "long": 151.073569
+        },
+        "suburb": "LAKEMBA"
+    },
+    {
+        "name": "7-Eleven Lambton",
+        "coordinates": {
+            "lat": -32.910413,
+            "long": 151.705176
+        },
+        "suburb": "LAMBTON"
+    },
+    {
+        "name": "7-Eleven Landsdale",
+        "coordinates": {
+            "lat": -31.804486,
+            "long": 115.83586
+        },
+        "suburb": "LANDSDALE"
+    },
+    {
+        "name": "7-Eleven Landsdale",
+        "coordinates": {
+            "lat": -31.804934,
+            "long": 115.835741
+        },
+        "suburb": "LANDSDALE"
+    },
+    {
+        "name": "7-Eleven Lane Cove",
+        "coordinates": {
+            "lat": -33.814598,
+            "long": 151.154353
+        },
+        "suburb": "LANE COVE"
+    },
+    {
+        "name": "7-Eleven Lansvale South",
+        "coordinates": {
+            "lat": -33.891605,
+            "long": 150.964966
+        },
+        "suburb": "LANSVALE SOUTH"
+    },
+    {
+        "name": "7-Eleven Lilydale",
+        "coordinates": {
+            "lat": -37.755869,
+            "long": 145.342725
+        },
+        "suburb": "LILYDALE"
+    },
+    {
+        "name": "7-Eleven Lindfield",
+        "coordinates": {
+            "lat": -33.778889,
+            "long": 151.168902
+        },
+        "suburb": "LINDFIELD"
+    },
+    {
+        "name": "7-Eleven Lisarow",
+        "coordinates": {
+            "lat": -33.385396,
+            "long": 151.365375
+        },
+        "suburb": "LISAROW"
+    },
+    {
+        "name": "7-Eleven Lithgow",
+        "coordinates": {
+            "lat": -33.479907,
+            "long": 150.13677
+        },
+        "suburb": "LITHGOW"
+    },
+    {
+        "name": "7-Eleven Little Mountain",
+        "coordinates": {
+            "lat": -26.794396,
+            "long": 153.106062
+        },
+        "suburb": "LITTLE MOUNTAIN"
+    },
+    {
+        "name": "7-Eleven Liverpool",
+        "coordinates": {
+            "lat": -33.918366,
+            "long": 150.916008
+        },
+        "suburb": "LIVERPOOL"
+    },
+    {
+        "name": "7-Eleven Logan City",
+        "coordinates": {
+            "lat": -27.641312,
+            "long": 153.107613
+        },
+        "suburb": "LOGAN CITY"
+    },
+    {
+        "name": "7-Eleven Logan Reserve",
+        "coordinates": {
+            "lat": -27.696664,
+            "long": 153.102474
+        },
+        "suburb": "LOGAN RESERVE"
+    },
+    {
+        "name": "7-Eleven Logan Village",
+        "coordinates": {
+            "lat": -27.769464,
+            "long": 153.104787
+        },
+        "suburb": "LOGAN VILLAGE"
+    },
+    {
+        "name": "7-Eleven Loganlea",
+        "coordinates": {
+            "lat": -27.687311,
+            "long": 153.137588
+        },
+        "suburb": "LOGANLEA"
+    },
+    {
+        "name": "7-Eleven Long Jetty",
+        "coordinates": {
+            "lat": -33.350815,
+            "long": 151.492283
+        },
+        "suburb": "LONG JETTY"
+    },
+    {
+        "name": "7-Eleven Long Jetty",
+        "coordinates": {
+            "lat": -33.363259,
+            "long": 151.478911
+        },
+        "suburb": "LONG JETTY"
+    },
+    {
+        "name": "7-Eleven Lurnea",
+        "coordinates": {
+            "lat": -33.927166,
+            "long": 150.902694
+        },
+        "suburb": "LURNEA"
+    },
+    {
+        "name": "7-Eleven Lynbrook",
+        "coordinates": {
+            "lat": -38.060726,
+            "long": 145.262847
+        },
+        "suburb": "LYNBROOK"
+    },
+    {
+        "name": "7-Eleven Mackenzie",
+        "coordinates": {
+            "lat": -27.545491,
+            "long": 153.121813
+        },
+        "suburb": "MACKENZIE"
+    },
+    {
+        "name": "7-Eleven Maddington South",
+        "coordinates": {
+            "lat": -32.055377,
+            "long": 115.9886
+        },
+        "suburb": "MADDINGTON SOUTH"
+    },
+    {
+        "name": "7-Eleven Malaga",
+        "coordinates": {
+            "lat": -31.856924,
+            "long": 115.908404
+        },
+        "suburb": "MALAGA"
+    },
+    {
+        "name": "7-Eleven Malaga",
+        "coordinates": {
+            "lat": -31.856778,
+            "long": 115.908098
+        },
+        "suburb": "MALAGA"
+    },
+    {
+        "name": "7-Eleven Malvern Springs",
+        "coordinates": {
+            "lat": -31.766075,
+            "long": 115.985544
+        },
+        "suburb": "MALVERN SPRINGS"
+    },
+    {
+        "name": "7-Eleven Mandurah",
+        "coordinates": {
+            "lat": -32.53585,
+            "long": 115.736934
+        },
+        "suburb": "MANDURAH"
+    },
+    {
+        "name": "7-Eleven Mango Hill",
+        "coordinates": {
+            "lat": -27.243564,
+            "long": 153.025508
+        },
+        "suburb": "MANGO HILL"
+    },
+    {
+        "name": "7-Eleven Manly West",
+        "coordinates": {
+            "lat": -27.475443,
+            "long": 153.165942
+        },
+        "suburb": "MANLY WEST"
+    },
+    {
+        "name": "7-Eleven Marcoola",
+        "coordinates": {
+            "lat": -26.600743,
+            "long": 153.095645
+        },
+        "suburb": "MARCOOLA"
+    },
+    {
+        "name": "7-Eleven Maribyrnong",
+        "coordinates": {
+            "lat": -37.769385,
+            "long": 144.897368
+        },
+        "suburb": "MARIBYRNONG"
+    },
+    {
+        "name": "7-Eleven Marks Point",
+        "coordinates": {
+            "lat": -33.056933,
+            "long": 151.653592
+        },
+        "suburb": "MARKS POINT"
+    },
+    {
+        "name": "7-Eleven Maroochydore North",
+        "coordinates": {
+            "lat": -26.659962,
+            "long": 153.100602
+        },
+        "suburb": "MAROOCHYDORE NORTH"
+    },
+    {
+        "name": "7-Eleven Maroubra",
+        "coordinates": {
+            "lat": -33.951306,
+            "long": 151.24905
+        },
+        "suburb": "MAROUBRA"
+    },
+    {
+        "name": "7-Eleven Marsden",
+        "coordinates": {
+            "lat": -27.680661,
+            "long": 153.114732
+        },
+        "suburb": "MARSDEN"
+    },
+    {
+        "name": "7-Eleven Marsden Park",
+        "coordinates": {
+            "lat": -33.718692,
+            "long": 150.846004
+        },
+        "suburb": "MARSDEN PARK"
+    },
+    {
+        "name": "7-Eleven Maryborough",
+        "coordinates": {
+            "lat": -25.537308631567,
+            "long": 152.69536662964
+        },
+        "suburb": "MARYBOROUGH"
+    },
+    {
+        "name": "7-Eleven Matraville",
+        "coordinates": {
+            "lat": -33.959435,
+            "long": 151.231759
+        },
+        "suburb": "MATRAVILLE"
+    },
+    {
+        "name": "7-Eleven Maudsland",
+        "coordinates": {
+            "lat": -27.913219,
+            "long": 153.283232
+        },
+        "suburb": "MAUDSLAND"
+    },
+    {
+        "name": "7-Eleven Mawson",
+        "coordinates": {
+            "lat": -35.365,
+            "long": 149.094
+        },
+        "suburb": "MAWSON"
+    },
+    {
+        "name": "7-Eleven Mayfield",
+        "coordinates": {
+            "lat": -32.901704,
+            "long": 151.741975
+        },
+        "suburb": "MAYFIELD"
+    },
+    {
+        "name": "7-Eleven Mayfield West",
+        "coordinates": {
+            "lat": -32.892733,
+            "long": 151.730031
+        },
+        "suburb": "MAYFIELD WEST"
+    },
+    {
+        "name": "7-Eleven McGraths Hill",
+        "coordinates": {
+            "lat": -33.616849,
+            "long": 150.834184
+        },
+        "suburb": "MCGRATHS HILL"
+    },
+    {
+        "name": "7-Eleven McKinnon",
+        "coordinates": {
+            "lat": -37.912701,
+            "long": 145.051901
+        },
+        "suburb": "MCKINNON"
+    },
+    {
+        "name": "7-Eleven Medowie",
+        "coordinates": {
+            "lat": -32.739125,
+            "long": 151.864568
+        },
+        "suburb": "MEDOWIE"
+    },
+    {
+        "name": "7-Eleven Melba",
+        "coordinates": {
+            "lat": -35.2078,
+            "long": 149.048
+        },
+        "suburb": "MELBA"
+    },
+    {
+        "name": "7-Eleven Melbourne East",
+        "coordinates": {
+            "lat": -37.807271,
+            "long": 144.966927
+        },
+        "suburb": "MELBOURNE EAST"
+    },
+    {
+        "name": "7-Eleven Melton",
+        "coordinates": {
+            "lat": -37.686765,
+            "long": 144.567296
+        },
+        "suburb": "MELTON"
+    },
+    {
+        "name": "7-Eleven Menai",
+        "coordinates": {
+            "lat": -34.01574,
+            "long": 151.013222
+        },
+        "suburb": "MENAI"
+    },
+    {
+        "name": "7-Eleven Meridan Plains",
+        "coordinates": {
+            "lat": -26.773868,
+            "long": 153.105561
+        },
+        "suburb": "MERIDAN PLAINS"
+    },
+    {
+        "name": "7-Eleven Mermaid Waters",
+        "coordinates": {
+            "lat": -28.040092,
+            "long": 153.408343
+        },
+        "suburb": "MERMAID WATERS"
+    },
+    {
+        "name": "7-Eleven Merrylands",
+        "coordinates": {
+            "lat": -33.835467,
+            "long": 150.985311
+        },
+        "suburb": "MERRYLANDS"
+    },
+    {
+        "name": "7-Eleven Metford",
+        "coordinates": {
+            "lat": -32.761177,
+            "long": 151.600376
+        },
+        "suburb": "METFORD"
+    },
+    {
+        "name": "7-Eleven Middle Swan",
+        "coordinates": {
+            "lat": -31.873671,
+            "long": 116.011586
+        },
+        "suburb": "MIDDLE SWAN"
+    },
+    {
+        "name": "7-Eleven Midland",
+        "coordinates": {
+            "lat": -31.897079,
+            "long": 116.013058
+        },
+        "suburb": "MIDLAND"
+    },
+    {
+        "name": "7-Eleven Midvale",
+        "coordinates": {
+            "lat": -31.885868,
+            "long": 116.031713
+        },
+        "suburb": "MIDVALE"
+    },
+    {
+        "name": "7-Eleven Midvale",
+        "coordinates": {
+            "lat": -31.885552,
+            "long": 116.032753
+        },
+        "suburb": "MIDVALE"
+    },
+    {
+        "name": "7-Eleven Mill Park",
+        "coordinates": {
+            "lat": -37.662166,
+            "long": 145.053325
+        },
+        "suburb": "MILL PARK"
+    },
+    {
+        "name": "7-Eleven Minchinbury",
+        "coordinates": {
+            "lat": -33.778099,
+            "long": 150.809194
+        },
+        "suburb": "MINCHINBURY"
+    },
+    {
+        "name": "7-Eleven Minchinbury",
+        "coordinates": {
+            "lat": -33.782515,
+            "long": 150.82857
+        },
+        "suburb": "MINCHINBURY"
+    },
+    {
+        "name": "7-Eleven Minto",
+        "coordinates": {
+            "lat": -34.031634,
+            "long": 150.847923
+        },
+        "suburb": "MINTO"
+    },
+    {
+        "name": "7-Eleven Mona Vale",
+        "coordinates": {
+            "lat": -33.676825,
+            "long": 151.308231
+        },
+        "suburb": "MONA VALE"
+    },
+    {
+        "name": "7-Eleven Moonee Ponds",
+        "coordinates": {
+            "lat": -37.773123,
+            "long": 144.927434
+        },
+        "suburb": "MOONEE PONDS"
+    },
+    {
+        "name": "7-Eleven Moonee Ponds",
+        "coordinates": {
+            "lat": -37.757474,
+            "long": 144.919773
+        },
+        "suburb": "MOONEE PONDS"
+    },
+    {
+        "name": "7-Eleven Moorebank",
+        "coordinates": {
+            "lat": -33.938082,
+            "long": 150.939552
+        },
+        "suburb": "MOOREBANK"
+    },
+    {
+        "name": "7-Eleven Mooroolbark",
+        "coordinates": {
+            "lat": -37.787201,
+            "long": 145.310913
+        },
+        "suburb": "MOOROOLBARK"
+    },
+    {
+        "name": "7-Eleven Moorvale",
+        "coordinates": {
+            "lat": -27.524154,
+            "long": 153.023497
+        },
+        "suburb": "MOORVALE"
+    },
+    {
+        "name": "7-Eleven Morayfield",
+        "coordinates": {
+            "lat": -27.112353,
+            "long": 152.950701
+        },
+        "suburb": "MORAYFIELD"
+    },
+    {
+        "name": "7-Eleven Morayfield East",
+        "coordinates": {
+            "lat": -27.109229,
+            "long": 152.967497
+        },
+        "suburb": "MORAYFIELD EAST"
+    },
+    {
+        "name": "7-Eleven Morisset",
+        "coordinates": {
+            "lat": -33.111796,
+            "long": 151.480839
+        },
+        "suburb": "MORISSET"
+    },
+    {
+        "name": "7-Eleven Morley",
+        "coordinates": {
+            "lat": -31.903344,
+            "long": 115.903047
+        },
+        "suburb": "MORLEY"
+    },
+    {
+        "name": "7-Eleven Mornington",
+        "coordinates": {
+            "lat": -38.231518,
+            "long": 145.046314
+        },
+        "suburb": "MORNINGTON"
+    },
+    {
+        "name": "7-Eleven Mornington",
+        "coordinates": {
+            "lat": -38.228119,
+            "long": 145.046182
+        },
+        "suburb": "MORNINGTON"
+    },
+    {
+        "name": "7-Eleven Mosman",
+        "coordinates": {
+            "lat": -33.817498,
+            "long": 151.243383
+        },
+        "suburb": "MOSMAN"
+    },
+    {
+        "name": "7-Eleven Mosman",
+        "coordinates": {
+            "lat": -33.823058,
+            "long": 151.243459
+        },
+        "suburb": "MOSMAN"
+    },
+    {
+        "name": "7-Eleven Mount Druitt",
+        "coordinates": {
+            "lat": -33.764921,
+            "long": 150.82627
+        },
+        "suburb": "MOUNT DRUITT"
+    },
+    {
+        "name": "7-Eleven Mount Gravatt",
+        "coordinates": {
+            "lat": -27.535163985881,
+            "long": 153.07634050639
+        },
+        "suburb": "MOUNT GRAVATT"
+    },
+    {
+        "name": "7-Eleven Mount Pritchard",
+        "coordinates": {
+            "lat": -33.902707,
+            "long": 150.896724
+        },
+        "suburb": "MOUNT PRITCHARD"
+    },
+    {
+        "name": "7-Eleven Mount Pritchard",
+        "coordinates": {
+            "lat": -33.897357,
+            "long": 150.912907
+        },
+        "suburb": "MOUNT PRITCHARD"
+    },
+    {
+        "name": "7-Eleven Mount Warren Park",
+        "coordinates": {
+            "lat": -27.724507,
+            "long": 153.212387
+        },
+        "suburb": "MOUNT WARREN PARK"
+    },
+    {
+        "name": "7-Eleven Mount Waverley",
+        "coordinates": {
+            "lat": -37.882907,
+            "long": 145.109133
+        },
+        "suburb": "MOUNT WAVERLEY"
+    },
+    {
+        "name": "7-Eleven Mountain Gate",
+        "coordinates": {
+            "lat": -37.882392,
+            "long": 145.274147
+        },
+        "suburb": "MOUNTAIN GATE"
+    },
+    {
+        "name": "7-Eleven Mt Gravatt East",
+        "coordinates": {
+            "lat": -27.531717,
+            "long": 153.093406
+        },
+        "suburb": "MT GRAVATT EAST"
+    },
+    {
+        "name": "7-Eleven Murarrie",
+        "coordinates": {
+            "lat": -27.456732,
+            "long": 153.105692
+        },
+        "suburb": "MURARRIE"
+    },
+    {
+        "name": "7-Eleven Murrumba Downs",
+        "coordinates": {
+            "lat": -27.273495,
+            "long": 153.015292
+        },
+        "suburb": "MURRUMBA DOWNS"
+    },
+    {
+        "name": "7-Eleven Muswellbrook",
+        "coordinates": {
+            "lat": -32.270515,
+            "long": 150.888256
+        },
+        "suburb": "MUSWELLBROOK"
+    },
+    {
+        "name": "7-Eleven Nambour",
+        "coordinates": {
+            "lat": -26.616593,
+            "long": 152.969305
+        },
+        "suburb": "NAMBOUR"
+    },
+    {
+        "name": "7-Eleven Narrabeen",
+        "coordinates": {
+            "lat": -33.719601,
+            "long": 151.298272
+        },
+        "suburb": "NARRABEEN"
+    },
+    {
+        "name": "7-Eleven Narrabeen",
+        "coordinates": {
+            "lat": -33.707435,
+            "long": 151.296389
+        },
+        "suburb": "NARRABEEN"
+    },
+    {
+        "name": "7-Eleven Narre Warren",
+        "coordinates": {
+            "lat": -38.035842,
+            "long": 145.305632
+        },
+        "suburb": "NARRE WARREN"
+    },
+    {
+        "name": "7-Eleven Nerang",
+        "coordinates": {
+            "lat": -27.993351,
+            "long": 153.333227
+        },
+        "suburb": "NERANG"
+    },
+    {
+        "name": "7-Eleven New Lambton",
+        "coordinates": {
+            "lat": -32.917854,
+            "long": 151.724357
+        },
+        "suburb": "NEW LAMBTON"
+    },
+    {
+        "name": "7-Eleven Newcomb",
+        "coordinates": {
+            "lat": -38.173575,
+            "long": 144.402443
+        },
+        "suburb": "NEWCOMB"
+    },
+    {
+        "name": "7-Eleven Newmarket",
+        "coordinates": {
+            "lat": -27.438587,
+            "long": 153.007429
+        },
+        "suburb": "NEWMARKET"
+    },
+    {
+        "name": "7-Eleven Newport",
+        "coordinates": {
+            "lat": -33.65634,
+            "long": 151.31825
+        },
+        "suburb": "NEWPORT"
+    },
+    {
+        "name": "7-Eleven Newport",
+        "coordinates": {
+            "lat": -37.841073,
+            "long": 144.883175
+        },
+        "suburb": "NEWPORT"
+    },
+    {
+        "name": "7-Eleven Newtown",
+        "coordinates": {
+            "lat": -27.549638,
+            "long": 151.943428
+        },
+        "suburb": "NEWTOWN"
+    },
+    {
+        "name": "7-Eleven Niddrie",
+        "coordinates": {
+            "lat": -37.737408,
+            "long": 144.892112
+        },
+        "suburb": "NIDDRIE"
+    },
+    {
+        "name": "7-Eleven Ningi",
+        "coordinates": {
+            "lat": -27.061941,
+            "long": 153.079389
+        },
+        "suburb": "NINGI"
+    },
+    {
+        "name": "7-Eleven Noble Park",
+        "coordinates": {
+            "lat": -37.965241,
+            "long": 145.172674
+        },
+        "suburb": "NOBLE PARK"
+    },
+    {
+        "name": "7-Eleven Noosaville",
+        "coordinates": {
+            "lat": -26.410022,
+            "long": 153.046903
+        },
+        "suburb": "NOOSAVILLE"
+    },
+    {
+        "name": "7-Eleven North Elsternwick",
+        "coordinates": {
+            "lat": -37.878847,
+            "long": 145.012435
+        },
+        "suburb": "NORTH ELSTERNWICK"
+    },
+    {
+        "name": "7-Eleven North Ipswich",
+        "coordinates": {
+            "lat": -27.603279,
+            "long": 152.761349
+        },
+        "suburb": "NORTH IPSWICH"
+    },
+    {
+        "name": "7-Eleven North Lakes",
+        "coordinates": {
+            "lat": -27.220927,
+            "long": 152.999754
+        },
+        "suburb": "NORTH LAKES"
+    },
+    {
+        "name": "7-Eleven North Lakes Central",
+        "coordinates": {
+            "lat": -27.238743,
+            "long": 153.008657
+        },
+        "suburb": "NORTH LAKES CENTRAL"
+    },
+    {
+        "name": "7-Eleven North Rocks",
+        "coordinates": {
+            "lat": -33.768977,
+            "long": 151.03069
+        },
+        "suburb": "NORTH ROCKS"
+    },
+    {
+        "name": "7-Eleven North Ryde",
+        "coordinates": {
+            "lat": -33.784477,
+            "long": 151.128964
+        },
+        "suburb": "NORTH RYDE"
+    },
+    {
+        "name": "7-Eleven Northcote",
+        "coordinates": {
+            "lat": -37.770769,
+            "long": 145.011565
+        },
+        "suburb": "NORTHCOTE"
+    },
+    {
+        "name": "7-Eleven Northgate",
+        "coordinates": {
+            "lat": -27.39177725481,
+            "long": 153.07119543651
+        },
+        "suburb": "NORTHGATE"
+    },
+    {
+        "name": "7-Eleven Northmead",
+        "coordinates": {
+            "lat": -33.782288,
+            "long": 150.997137
+        },
+        "suburb": "NORTHMEAD"
+    },
+    {
+        "name": "7-Eleven Northmead",
+        "coordinates": {
+            "lat": -33.790961,
+            "long": 150.997173
+        },
+        "suburb": "NORTHMEAD"
+    },
+    {
+        "name": "7-Eleven Nunawading",
+        "coordinates": {
+            "lat": -37.847619,
+            "long": 145.170128
+        },
+        "suburb": "NUNAWADING"
+    },
+    {
+        "name": "7-Eleven Oakleigh South",
+        "coordinates": {
+            "lat": -37.917978,
+            "long": 145.083347
+        },
+        "suburb": "OAKLEIGH SOUTH"
+    },
+    {
+        "name": "7-Eleven Officer",
+        "coordinates": {
+            "lat": -38.061984,
+            "long": 145.416872
+        },
+        "suburb": "OFFICER"
+    },
+    {
+        "name": "7-Eleven Officer East",
+        "coordinates": {
+            "lat": -38.059056,
+            "long": 145.406738
+        },
+        "suburb": "OFFICER EAST"
+    },
+    {
+        "name": "7-Eleven Orange",
+        "coordinates": {
+            "lat": -33.291793,
+            "long": 149.110594
+        },
+        "suburb": "ORANGE"
+    },
+    {
+        "name": "7-Eleven Orange North",
+        "coordinates": {
+            "lat": -33.269627,
+            "long": 149.082285
+        },
+        "suburb": "ORANGE NORTH"
+    },
+    {
+        "name": "7-Eleven Ormeau",
+        "coordinates": {
+            "lat": -27.786176,
+            "long": 153.258459
+        },
+        "suburb": "ORMEAU"
+    },
+    {
+        "name": "7-Eleven Oxenford",
+        "coordinates": {
+            "lat": -27.886087,
+            "long": 153.313284
+        },
+        "suburb": "OXENFORD"
+    },
+    {
+        "name": "7-Eleven Pacific Pines",
+        "coordinates": {
+            "lat": -27.946302,
+            "long": 153.320627
+        },
+        "suburb": "PACIFIC PINES"
+    },
+    {
+        "name": "7-Eleven Paddington",
+        "coordinates": {
+            "lat": -33.882857,
+            "long": 151.220144
+        },
+        "suburb": "PADDINGTON"
+    },
+    {
+        "name": "7-Eleven Pakenham",
+        "coordinates": {
+            "lat": -38.085466,
+            "long": 145.491304
+        },
+        "suburb": "PAKENHAM"
+    },
+    {
+        "name": "7-Eleven Palm Beach",
+        "coordinates": {
+            "lat": -28.118253,
+            "long": 153.470706
+        },
+        "suburb": "PALM BEACH"
+    },
+    {
+        "name": "7-Eleven Palm Beach North",
+        "coordinates": {
+            "lat": -28.109131,
+            "long": 153.465505
+        },
+        "suburb": "PALM BEACH NORTH"
+    },
+    {
+        "name": "7-Eleven Park Ridge",
+        "coordinates": {
+            "lat": -27.699106,
+            "long": 153.040814
+        },
+        "suburb": "PARK RIDGE"
+    },
+    {
+        "name": "7-Eleven Parkwood",
+        "coordinates": {
+            "lat": -27.947107,
+            "long": 153.351196
+        },
+        "suburb": "PARKWOOD"
+    },
+    {
+        "name": "7-Eleven Parramatta",
+        "coordinates": {
+            "lat": -33.808768,
+            "long": 151.014716
+        },
+        "suburb": "PARRAMATTA"
+    },
+    {
+        "name": "7-Eleven Pascoe Vale",
+        "coordinates": {
+            "lat": -37.728138,
+            "long": 144.923966
+        },
+        "suburb": "PASCOE VALE"
+    },
+    {
+        "name": "7-Eleven Pascoe Vale",
+        "coordinates": {
+            "lat": -37.738791,
+            "long": 144.940679
+        },
+        "suburb": "PASCOE VALE"
+    },
+    {
+        "name": "7-Eleven Pendle Hill",
+        "coordinates": {
+            "lat": -33.80187,
+            "long": 150.957827
+        },
+        "suburb": "PENDLE HILL"
+    },
+    {
+        "name": "7-Eleven Penrith",
+        "coordinates": {
+            "lat": -33.752554,
+            "long": 150.691289
+        },
+        "suburb": "PENRITH"
+    },
+    {
+        "name": "7-Eleven Penrith",
+        "coordinates": {
+            "lat": -33.754088,
+            "long": 150.704558
+        },
+        "suburb": "PENRITH"
+    },
+    {
+        "name": "7-Eleven Penrith South",
+        "coordinates": {
+            "lat": -33.777277,
+            "long": 150.710723
+        },
+        "suburb": "PENRITH SOUTH"
+    },
+    {
+        "name": "7-Eleven Penshurst",
+        "coordinates": {
+            "lat": -33.961504,
+            "long": 151.079228
+        },
+        "suburb": "PENSHURST"
+    },
+    {
+        "name": "7-Eleven Petersham",
+        "coordinates": {
+            "lat": -33.888684,
+            "long": 151.158573
+        },
+        "suburb": "PETERSHAM"
+    },
+    {
+        "name": "7-Eleven Pheasants Nest",
+        "coordinates": {
+            "lat": -34.282907,
+            "long": 150.639027
+        },
+        "suburb": "PHEASANTS NEST"
+    },
+    {
+        "name": "7-Eleven Pheasants Nest North",
+        "coordinates": {
+            "lat": -34.28316,
+            "long": 150.63636
+        },
+        "suburb": "PHEASANTS NEST NORTH"
+    },
+    {
+        "name": "7-Eleven Phillip",
+        "coordinates": {
+            "lat": -35.355061,
+            "long": 149.091106
+        },
+        "suburb": "PHILLIP"
+    },
+    {
+        "name": "7-Eleven Pimpama",
+        "coordinates": {
+            "lat": -27.824097,
+            "long": 153.317974
+        },
+        "suburb": "PIMPAMA"
+    },
+    {
+        "name": "7-Eleven Pimpama Central",
+        "coordinates": {
+            "lat": -27.819119,
+            "long": 153.289114
+        },
+        "suburb": "PIMPAMA CENTRAL"
+    },
+    {
+        "name": "7-Eleven Pinelands Road",
+        "coordinates": {
+            "lat": -27.591692,
+            "long": 153.060201
+        },
+        "suburb": "PINELANDS ROAD"
+    },
+    {
+        "name": "7-Eleven Plumpton",
+        "coordinates": {
+            "lat": -33.73984,
+            "long": 150.860297
+        },
+        "suburb": "PLUMPTON"
+    },
+    {
+        "name": "7-Eleven Plumpton",
+        "coordinates": {
+            "lat": -33.753565,
+            "long": 150.840322
+        },
+        "suburb": "PLUMPTON"
+    },
+    {
+        "name": "7-Eleven Point Cook",
+        "coordinates": {
+            "lat": -37.893629,
+            "long": 144.728256
+        },
+        "suburb": "POINT COOK"
+    },
+    {
+        "name": "7-Eleven Port Melbourne",
+        "coordinates": {
+            "lat": -37.834226,
+            "long": 144.949512
+        },
+        "suburb": "PORT MELBOURNE"
+    },
+    {
+        "name": "7-Eleven Prahran East",
+        "coordinates": {
+            "lat": -37.849383,
+            "long": 145.011893
+        },
+        "suburb": "PRAHRAN EAST"
+    },
+    {
+        "name": "7-Eleven Prairewood",
+        "coordinates": {
+            "lat": -33.871082,
+            "long": 150.902893
+        },
+        "suburb": "PRAIREWOOD"
+    },
+    {
+        "name": "7-Eleven Quakers Hill",
+        "coordinates": {
+            "lat": -33.727446,
+            "long": 150.89666
+        },
+        "suburb": "QUAKERS HILL"
+    },
+    {
+        "name": "7-Eleven Queens Park",
+        "coordinates": {
+            "lat": -31.997151,
+            "long": 115.946773
+        },
+        "suburb": "QUEENS PARK"
+    },
+    {
+        "name": "7-Eleven Raceview",
+        "coordinates": {
+            "lat": -27.634575,
+            "long": 152.774375
+        },
+        "suburb": "RACEVIEW"
+    },
+    {
+        "name": "7-Eleven Rangeville",
+        "coordinates": {
+            "lat": -27.574603,
+            "long": 151.969481
+        },
+        "suburb": "RANGEVILLE"
+    },
+    {
+        "name": "7-Eleven Redbank Plains",
+        "coordinates": {
+            "lat": -27.644932,
+            "long": 152.871457
+        },
+        "suburb": "REDBANK PLAINS"
+    },
+    {
+        "name": "7-Eleven Redcliffe",
+        "coordinates": {
+            "lat": -27.230574,
+            "long": 153.109047
+        },
+        "suburb": "REDCLIFFE"
+    },
+    {
+        "name": "7-Eleven Redland Bay",
+        "coordinates": {
+            "lat": -27.608506,
+            "long": 153.289482
+        },
+        "suburb": "REDLAND BAY"
+    },
+    {
+        "name": "7-Eleven Redland Bay South",
+        "coordinates": {
+            "lat": -27.637183,
+            "long": 153.305892
+        },
+        "suburb": "REDLAND BAY SOUTH"
+    },
+    {
+        "name": "7-Eleven Regents Park",
+        "coordinates": {
+            "lat": -27.688081,
+            "long": 153.037982
+        },
+        "suburb": "REGENTS PARK"
+    },
+    {
+        "name": "7-Eleven Regentville",
+        "coordinates": {
+            "lat": -33.77504,
+            "long": 150.666023
+        },
+        "suburb": "REGENTVILLE"
+    },
+    {
+        "name": "7-Eleven Research",
+        "coordinates": {
+            "lat": -37.702011,
+            "long": 145.172807
+        },
+        "suburb": "RESEARCH"
+    },
+    {
+        "name": "7-Eleven Revesby",
+        "coordinates": {
+            "lat": -33.936974,
+            "long": 151.020888
+        },
+        "suburb": "REVESBY"
+    },
+    {
+        "name": "7-Eleven Revesby South",
+        "coordinates": {
+            "lat": -33.935593,
+            "long": 151.009208
+        },
+        "suburb": "REVESBY SOUTH"
+    },
+    {
+        "name": "7-Eleven Richlands",
+        "coordinates": {
+            "lat": -27.597794,
+            "long": 152.949628
+        },
+        "suburb": "RICHLANDS"
+    },
+    {
+        "name": "7-Eleven Richmond",
+        "coordinates": {
+            "lat": -37.813817,
+            "long": 144.999789
+        },
+        "suburb": "RICHMOND"
+    },
+    {
+        "name": "7-Eleven Ringwood",
+        "coordinates": {
+            "lat": -37.805093,
+            "long": 145.229829
+        },
+        "suburb": "RINGWOOD"
+    },
+    {
+        "name": "7-Eleven Ringwood North",
+        "coordinates": {
+            "lat": -37.794239,
+            "long": 145.235028
+        },
+        "suburb": "RINGWOOD NORTH"
+    },
+    {
+        "name": "7-Eleven River Hills",
+        "coordinates": {
+            "lat": -27.562065,
+            "long": 152.921994
+        },
+        "suburb": "RIVER HILLS"
+    },
+    {
+        "name": "7-Eleven RIVERSTONE",
+        "coordinates": {
+            "lat": -33.677945,
+            "long": 150.86367
+        },
+        "suburb": "RIVERSTONE"
+    },
+    {
+        "name": "7-Eleven Riverwood",
+        "coordinates": {
+            "lat": -33.9523,
+            "long": 151.058345
+        },
+        "suburb": "RIVERWOOD"
+    },
+    {
+        "name": "7-Eleven Robina",
+        "coordinates": {
+            "lat": -28.065634,
+            "long": 153.404204
+        },
+        "suburb": "ROBINA"
+    },
+    {
+        "name": "7-Eleven Robina",
+        "coordinates": {
+            "lat": -28.080395,
+            "long": 153.384292
+        },
+        "suburb": "ROBINA"
+    },
+    {
+        "name": "7-Eleven Robina",
+        "coordinates": {
+            "lat": -28.090403,
+            "long": 153.390928
+        },
+        "suburb": "ROBINA"
+    },
+    {
+        "name": "7-Eleven Rockbank",
+        "coordinates": {
+            "lat": -37.747038,
+            "long": 144.703154
+        },
+        "suburb": "ROCKBANK"
+    },
+    {
+        "name": "7-Eleven Rockdale",
+        "coordinates": {
+            "lat": -33.949919,
+            "long": 151.148692
+        },
+        "suburb": "ROCKDALE"
+    },
+    {
+        "name": "7-Eleven Rockdale",
+        "coordinates": {
+            "lat": -33.952566,
+            "long": 151.135774
+        },
+        "suburb": "ROCKDALE"
+    },
+    {
+        "name": "7-Eleven Rockingham",
+        "coordinates": {
+            "lat": -32.276643,
+            "long": 115.777477
+        },
+        "suburb": "ROCKINGHAM"
+    },
+    {
+        "name": "7-Eleven Rockingham Central",
+        "coordinates": {
+            "lat": -32.291686,
+            "long": 115.743091
+        },
+        "suburb": "ROCKINGHAM CENTRAL"
+    },
+    {
+        "name": "7-Eleven Rooty Hill",
+        "coordinates": {
+            "lat": -33.780217,
+            "long": 150.85028
+        },
+        "suburb": "ROOTY HILL"
+    },
+    {
+        "name": "7-Eleven Rosebud",
+        "coordinates": {
+            "lat": -38.357101,
+            "long": 144.901249
+        },
+        "suburb": "ROSEBUD"
+    },
+    {
+        "name": "7-Eleven Roseville",
+        "coordinates": {
+            "lat": -33.787519,
+            "long": 151.178986
+        },
+        "suburb": "ROSEVILLE"
+    },
+    {
+        "name": "7-Eleven Rothwell",
+        "coordinates": {
+            "lat": -27.211583,
+            "long": 153.046778
+        },
+        "suburb": "ROTHWELL"
+    },
+    {
+        "name": "7-Eleven Rowville",
+        "coordinates": {
+            "lat": -37.927736,
+            "long": 145.234023
+        },
+        "suburb": "ROWVILLE"
+    },
+    {
+        "name": "7-Eleven Roxburgh Park",
+        "coordinates": {
+            "lat": -37.619332,
+            "long": 144.927817
+        },
+        "suburb": "ROXBURGH PARK"
+    },
+    {
+        "name": "7-Eleven Royal Melbourne",
+        "coordinates": {
+            "lat": -37.800123,
+            "long": 144.955022
+        },
+        "suburb": "ROYAL MELBOURNE"
+    },
+    {
+        "name": "7-Eleven Rozelle",
+        "coordinates": {
+            "lat": -33.862904,
+            "long": 151.168131
+        },
+        "suburb": "ROZELLE"
+    },
+    {
+        "name": "7-Eleven Runaway Bay",
+        "coordinates": {
+            "lat": -27.923714,
+            "long": 153.403749
+        },
+        "suburb": "RUNAWAY BAY"
+    },
+    {
+        "name": "7-Eleven Rutherford",
+        "coordinates": {
+            "lat": -32.713209,
+            "long": 151.518439
+        },
+        "suburb": "RUTHERFORD"
+    },
+    {
+        "name": "7-Eleven Ryde",
+        "coordinates": {
+            "lat": -33.802513,
+            "long": 151.100336
+        },
+        "suburb": "RYDE"
+    },
+    {
+        "name": "7-Eleven Salisbury",
+        "coordinates": {
+            "lat": -27.544443,
+            "long": 153.039864
+        },
+        "suburb": "SALISBURY"
+    },
+    {
+        "name": "7-Eleven Sanctuary Cove",
+        "coordinates": {
+            "lat": -27.877804,
+            "long": 153.366722
+        },
+        "suburb": "SANCTUARY COVE"
+    },
+    {
+        "name": "7-Eleven Sandgate",
+        "coordinates": {
+            "lat": -27.320918,
+            "long": 153.067761
+        },
+        "suburb": "SANDGATE"
+    },
+    {
+        "name": "7-Eleven Sandown",
+        "coordinates": {
+            "lat": -37.948204,
+            "long": 145.172509
+        },
+        "suburb": "SANDOWN"
+    },
+    {
+        "name": "7-Eleven Sandringham",
+        "coordinates": {
+            "lat": -37.946604,
+            "long": 145.022396
+        },
+        "suburb": "SANDRINGHAM"
+    },
+    {
+        "name": "7-Eleven Sandringham",
+        "coordinates": {
+            "lat": -37.953471,
+            "long": 145.021136
+        },
+        "suburb": "SANDRINGHAM"
+    },
+    {
+        "name": "7-Eleven Sandstone Point",
+        "coordinates": {
+            "lat": -27.071043706715,
+            "long": 153.13413803718
+        },
+        "suburb": "SANDSTONE POINT"
+    },
+    {
+        "name": "7-Eleven Sans Souci",
+        "coordinates": {
+            "lat": -33.990878,
+            "long": 151.133385
+        },
+        "suburb": "SANS SOUCI"
+    },
+    {
+        "name": "7-Eleven Sebastopol",
+        "coordinates": {
+            "lat": -37.585847,
+            "long": 143.833703
+        },
+        "suburb": "SEBASTOPOL"
+    },
+    {
+        "name": "7-Eleven Seven Hills",
+        "coordinates": {
+            "lat": -33.768936,
+            "long": 150.94268
+        },
+        "suburb": "SEVEN HILLS"
+    },
+    {
+        "name": "7-Eleven Shellharbour",
+        "coordinates": {
+            "lat": -34.580605,
+            "long": 150.861141
+        },
+        "suburb": "SHELLHARBOUR"
+    },
+    {
+        "name": "7-Eleven Shortland",
+        "coordinates": {
+            "lat": -32.886168,
+            "long": 151.695396
+        },
+        "suburb": "SHORTLAND"
+    },
+    {
+        "name": "7-Eleven Silkstone",
+        "coordinates": {
+            "lat": -27.621231,
+            "long": 152.788104
+        },
+        "suburb": "SILKSTONE"
+    },
+    {
+        "name": "7-Eleven Singleton",
+        "coordinates": {
+            "lat": -32.569388,
+            "long": 151.179967
+        },
+        "suburb": "SINGLETON"
+    },
+    {
+        "name": "7-Eleven South Hurstville",
+        "coordinates": {
+            "lat": -33.975997,
+            "long": 151.10364
+        },
+        "suburb": "SOUTH HURSTVILLE"
+    },
+    {
+        "name": "7-Eleven South Morang",
+        "coordinates": {
+            "lat": -37.649487,
+            "long": 145.090532
+        },
+        "suburb": "SOUTH MORANG"
+    },
+    {
+        "name": "7-Eleven Southern River",
+        "coordinates": {
+            "lat": -32.107884,
+            "long": 115.939718
+        },
+        "suburb": "SOUTHERN RIVER"
+    },
+    {
+        "name": "7-Eleven Southport",
+        "coordinates": {
+            "lat": -27.996438,
+            "long": 153.399772
+        },
+        "suburb": "SOUTHPORT"
+    },
+    {
+        "name": "7-Eleven Spence",
+        "coordinates": {
+            "lat": -35.1936,
+            "long": 149.066
+        },
+        "suburb": "SPENCE"
+    },
+    {
+        "name": "7-Eleven Springfield",
+        "coordinates": {
+            "lat": -27.651893,
+            "long": 152.921093
+        },
+        "suburb": "SPRINGFIELD"
+    },
+    {
+        "name": "7-Eleven Springvale South",
+        "coordinates": {
+            "lat": -37.972047,
+            "long": 145.148666
+        },
+        "suburb": "SPRINGVALE SOUTH"
+    },
+    {
+        "name": "7-Eleven Springwood",
+        "coordinates": {
+            "lat": -27.610312,
+            "long": 153.124067
+        },
+        "suburb": "SPRINGWOOD"
+    },
+    {
+        "name": "7-Eleven St Albans",
+        "coordinates": {
+            "lat": -37.734675,
+            "long": 144.781244
+        },
+        "suburb": "ST ALBANS"
+    },
+    {
+        "name": "7-Eleven St Albans",
+        "coordinates": {
+            "lat": -37.741622,
+            "long": 144.779073
+        },
+        "suburb": "ST ALBANS"
+    },
+    {
+        "name": "7-Eleven St Clair",
+        "coordinates": {
+            "lat": -33.79414,
+            "long": 150.789066
+        },
+        "suburb": "ST CLAIR"
+    },
+    {
+        "name": "7-Eleven St Helens Park",
+        "coordinates": {
+            "lat": -34.102063,
+            "long": 150.802239
+        },
+        "suburb": "ST HELENS PARK"
+    },
+    {
+        "name": "7-Eleven St Ives",
+        "coordinates": {
+            "lat": -33.732665,
+            "long": 151.156286
+        },
+        "suburb": "ST IVES"
+    },
+    {
+        "name": "7-Eleven St Kilda",
+        "coordinates": {
+            "lat": -37.860654,
+            "long": 144.985088
+        },
+        "suburb": "ST KILDA"
+    },
+    {
+        "name": "7-Eleven St Kilda Junction",
+        "coordinates": {
+            "lat": -37.854348,
+            "long": 144.983156
+        },
+        "suburb": "ST KILDA JUNCTION"
+    },
+    {
+        "name": "7-Eleven St Marys",
+        "coordinates": {
+            "lat": -33.747899,
+            "long": 150.776737
+        },
+        "suburb": "ST MARYS"
+    },
+    {
+        "name": "7-Eleven St Marys",
+        "coordinates": {
+            "lat": -33.778006,
+            "long": 150.771942
+        },
+        "suburb": "ST MARYS"
+    },
+    {
+        "name": "7-Eleven St. Albans North",
+        "coordinates": {
+            "lat": -37.729494,
+            "long": 144.810482
+        },
+        "suburb": "ST. ALBANS NORTH"
+    },
+    {
+        "name": "7-Eleven Stirling",
+        "coordinates": {
+            "lat": -31.8734,
+            "long": 115.828839
+        },
+        "suburb": "STIRLING"
+    },
+    {
+        "name": "7-Eleven Strathfield South",
+        "coordinates": {
+            "lat": -33.887371,
+            "long": 151.074269
+        },
+        "suburb": "STRATHFIELD SOUTH"
+    },
+    {
+        "name": "7-Eleven Strathmore",
+        "coordinates": {
+            "lat": -37.743635,
+            "long": 144.910212
+        },
+        "suburb": "STRATHMORE"
+    },
+    {
+        "name": "7-Eleven Strathpine",
+        "coordinates": {
+            "lat": -27.307764,
+            "long": 152.990398
+        },
+        "suburb": "STRATHPINE"
+    },
+    {
+        "name": "7-Eleven Strathpine Northbound",
+        "coordinates": {
+            "lat": -27.308252,
+            "long": 152.990059
+        },
+        "suburb": "STRATHPINE NORTHBOUND"
+    },
+    {
+        "name": "7-Eleven Success",
+        "coordinates": {
+            "lat": -32.126356,
+            "long": 115.839346
+        },
+        "suburb": "SUCCESS"
+    },
+    {
+        "name": "7-Eleven Sunbury",
+        "coordinates": {
+            "lat": -37.578407,
+            "long": 144.711495
+        },
+        "suburb": "SUNBURY"
+    },
+    {
+        "name": "7-Eleven Sunshine",
+        "coordinates": {
+            "lat": -37.777893,
+            "long": 144.833786
+        },
+        "suburb": "SUNSHINE"
+    },
+    {
+        "name": "7-Eleven Sunshine",
+        "coordinates": {
+            "lat": -37.791711,
+            "long": 144.831383
+        },
+        "suburb": "SUNSHINE"
+    },
+    {
+        "name": "7-Eleven Surfers Paradise",
+        "coordinates": {
+            "lat": -27.995652,
+            "long": 153.427637
+        },
+        "suburb": "SURFERS PARADISE"
+    },
+    {
+        "name": "7-Eleven Sutherland",
+        "coordinates": {
+            "lat": -34.029795,
+            "long": 151.058951
+        },
+        "suburb": "SUTHERLAND"
+    },
+    {
+        "name": "7-Eleven Taigum",
+        "coordinates": {
+            "lat": -27.342276,
+            "long": 153.041562
+        },
+        "suburb": "TAIGUM"
+    },
+    {
+        "name": "7-Eleven Tarneit",
+        "coordinates": {
+            "lat": -37.853273,
+            "long": 144.667839
+        },
+        "suburb": "TARNEIT"
+    },
+    {
+        "name": "7-Eleven Taylors Lakes",
+        "coordinates": {
+            "lat": -37.702647,
+            "long": 144.801185
+        },
+        "suburb": "TAYLORS LAKES"
+    },
+    {
+        "name": "7-Eleven Templestowe",
+        "coordinates": {
+            "lat": -37.755455,
+            "long": 145.130385
+        },
+        "suburb": "TEMPLESTOWE"
+    },
+    {
+        "name": "7-Eleven The Gap",
+        "coordinates": {
+            "lat": -27.443024,
+            "long": 152.943788
+        },
+        "suburb": "THE GAP"
+    },
+    {
+        "name": "7-Eleven Thomastown",
+        "coordinates": {
+            "lat": -37.678674,
+            "long": 144.998858
+        },
+        "suburb": "THOMASTOWN"
+    },
+    {
+        "name": "7-Eleven Thornbury",
+        "coordinates": {
+            "lat": -37.756137,
+            "long": 145.000664
+        },
+        "suburb": "THORNBURY"
+    },
+    {
+        "name": "7-Eleven Thornlie",
+        "coordinates": {
+            "lat": -32.06954,
+            "long": 115.952095
+        },
+        "suburb": "THORNLIE"
+    },
+    {
+        "name": "7-Eleven Thornton",
+        "coordinates": {
+            "lat": -32.791875,
+            "long": 151.636767
+        },
+        "suburb": "THORNTON"
+    },
+    {
+        "name": "7-Eleven Tingalpa",
+        "coordinates": {
+            "lat": -27.471569,
+            "long": 153.110372
+        },
+        "suburb": "TINGALPA"
+    },
+    {
+        "name": "7-Eleven Tingalpa North",
+        "coordinates": {
+            "lat": -27.467465,
+            "long": 153.152332
+        },
+        "suburb": "TINGALPA NORTH"
+    },
+    {
+        "name": "7-Eleven Toongabbie",
+        "coordinates": {
+            "lat": -33.786881,
+            "long": 150.946621
+        },
+        "suburb": "TOONGABBIE"
+    },
+    {
+        "name": "7-Eleven Toowoomba East",
+        "coordinates": {
+            "lat": -27.550661,
+            "long": 151.954666
+        },
+        "suburb": "TOOWOOMBA EAST"
+    },
+    {
+        "name": "7-Eleven Toukley",
+        "coordinates": {
+            "lat": -33.264926,
+            "long": 151.54631
+        },
+        "suburb": "TOUKLEY"
+    },
+    {
+        "name": "7-Eleven Towradgi",
+        "coordinates": {
+            "lat": -34.384116,
+            "long": 150.906484
+        },
+        "suburb": "TOWRADGI"
+    },
+    {
+        "name": "7-Eleven Treendale",
+        "coordinates": {
+            "lat": -33.28332,
+            "long": 115.746137
+        },
+        "suburb": "TREENDALE"
+    },
+    {
+        "name": "7-Eleven Truganina",
+        "coordinates": {
+            "lat": -37.838144,
+            "long": 144.727953
+        },
+        "suburb": "TRUGANINA"
+    },
+    {
+        "name": "7-Eleven Tullamarine",
+        "coordinates": {
+            "lat": -37.698612,
+            "long": 144.880091
+        },
+        "suburb": "TULLAMARINE"
+    },
+    {
+        "name": "7-Eleven Tullamarine",
+        "coordinates": {
+            "lat": -37.702338,
+            "long": 144.882875
+        },
+        "suburb": "TULLAMARINE"
+    },
+    {
+        "name": "7-Eleven Turramurra",
+        "coordinates": {
+            "lat": -33.733062,
+            "long": 151.126513
+        },
+        "suburb": "TURRAMURRA"
+    },
+    {
+        "name": "7-Eleven Tweed Heads Sth",
+        "coordinates": {
+            "lat": -28.187642,
+            "long": 153.540049
+        },
+        "suburb": "TWEED HEADS STH"
+    },
+    {
+        "name": "7-Eleven Unanderra",
+        "coordinates": {
+            "lat": -34.450291,
+            "long": 150.849268
+        },
+        "suburb": "UNANDERRA"
+    },
+    {
+        "name": "7-Eleven Upper Coomera",
+        "coordinates": {
+            "lat": -27.868386,
+            "long": 153.296564
+        },
+        "suburb": "UPPER COOMERA"
+    },
+    {
+        "name": "7-Eleven Upwey",
+        "coordinates": {
+            "lat": -37.901789,
+            "long": 145.330122
+        },
+        "suburb": "UPWEY"
+    },
+    {
+        "name": "7-Eleven Vermont",
+        "coordinates": {
+            "lat": -37.836158,
+            "long": 145.196106
+        },
+        "suburb": "VERMONT"
+    },
+    {
+        "name": "7-Eleven Victoria Point",
+        "coordinates": {
+            "lat": -27.584429,
+            "long": 153.281072
+        },
+        "suburb": "VICTORIA POINT"
+    },
+    {
+        "name": "7-Eleven Virginia",
+        "coordinates": {
+            "lat": -27.371216,
+            "long": 153.062564
+        },
+        "suburb": "VIRGINIA"
+    },
+    {
+        "name": "7-Eleven Wadalba",
+        "coordinates": {
+            "lat": -33.265167,
+            "long": 151.454858
+        },
+        "suburb": "WADALBA"
+    },
+    {
+        "name": "7-Eleven Wahroonga",
+        "coordinates": {
+            "lat": -33.719857,
+            "long": 151.116805
+        },
+        "suburb": "WAHROONGA"
+    },
+    {
+        "name": "7-Eleven Wallsend",
+        "coordinates": {
+            "lat": -32.890998,
+            "long": 151.666094
+        },
+        "suburb": "WALLSEND"
+    },
+    {
+        "name": "7-Eleven Wangara",
+        "coordinates": {
+            "lat": -31.801955,
+            "long": 115.827751
+        },
+        "suburb": "WANGARA"
+    },
+    {
+        "name": "7-Eleven Wanneroo",
+        "coordinates": {
+            "lat": -31.7495477,
+            "long": 115.801979
+        },
+        "suburb": "WANNEROO"
+    },
+    {
+        "name": "7-Eleven Wanneroo",
+        "coordinates": {
+            "lat": -31.748986,
+            "long": 115.801954
+        },
+        "suburb": "WANNEROO"
+    },
+    {
+        "name": "7-Eleven Wanneroo South",
+        "coordinates": {
+            "lat": -31.7543407,
+            "long": 115.802126
+        },
+        "suburb": "WANNEROO SOUTH"
+    },
+    {
+        "name": "7-Eleven Wanneroo South",
+        "coordinates": {
+            "lat": -31.754313,
+            "long": 115.804474
+        },
+        "suburb": "WANNEROO SOUTH"
+    },
+    {
+        "name": "7-Eleven Wanniassa",
+        "coordinates": {
+            "lat": -35.4052,
+            "long": 149.101
+        },
+        "suburb": "WANNIASSA"
+    },
+    {
+        "name": "7-Eleven Wantirna",
+        "coordinates": {
+            "lat": -37.848663,
+            "long": 145.231556
+        },
+        "suburb": "WANTIRNA"
+    },
+    {
+        "name": "7-Eleven Wantirna South",
+        "coordinates": {
+            "lat": -37.868447,
+            "long": 145.236336
+        },
+        "suburb": "WANTIRNA SOUTH"
+    },
+    {
+        "name": "7-Eleven Wantirna South",
+        "coordinates": {
+            "lat": -37.876298,
+            "long": 145.215102
+        },
+        "suburb": "WANTIRNA SOUTH"
+    },
+    {
+        "name": "7-Eleven Warana",
+        "coordinates": {
+            "lat": -26.719325,
+            "long": 153.129287
+        },
+        "suburb": "WARANA"
+    },
+    {
+        "name": "7-Eleven Warner",
+        "coordinates": {
+            "lat": -27.310541,
+            "long": 152.962582
+        },
+        "suburb": "WARNER"
+    },
+    {
+        "name": "7-Eleven Warners Bay",
+        "coordinates": {
+            "lat": -32.965976,
+            "long": 151.654297
+        },
+        "suburb": "WARNERS BAY"
+    },
+    {
+        "name": "7-Eleven Watanobbi",
+        "coordinates": {
+            "lat": -33.27436,
+            "long": 151.429255
+        },
+        "suburb": "WATANOBBI"
+    },
+    {
+        "name": "7-Eleven Wattle Grove",
+        "coordinates": {
+            "lat": -31.999606,
+            "long": 115.985408
+        },
+        "suburb": "WATTLE GROVE"
+    },
+    {
+        "name": "7-Eleven Wattle Grove",
+        "coordinates": {
+            "lat": -32,
+            "long": 115.985784
+        },
+        "suburb": "WATTLE GROVE"
+    },
+    {
+        "name": "7-Eleven Waverley Gardens",
+        "coordinates": {
+            "lat": -37.936785,
+            "long": 145.187867
+        },
+        "suburb": "WAVERLEY GARDENS"
+    },
+    {
+        "name": "7-Eleven Werribee",
+        "coordinates": {
+            "lat": -37.903335,
+            "long": 144.660692
+        },
+        "suburb": "WERRIBEE"
+    },
+    {
+        "name": "7-Eleven Werribee",
+        "coordinates": {
+            "lat": -37.875228,
+            "long": 144.665261
+        },
+        "suburb": "WERRIBEE"
+    },
+    {
+        "name": "7-Eleven Werribee South",
+        "coordinates": {
+            "lat": -37.909307,
+            "long": 144.676896
+        },
+        "suburb": "WERRIBEE SOUTH"
+    },
+    {
+        "name": "7-Eleven Werrington",
+        "coordinates": {
+            "lat": -33.747045,
+            "long": 150.742768
+        },
+        "suburb": "WERRINGTON"
+    },
+    {
+        "name": "7-Eleven Werrington South",
+        "coordinates": {
+            "lat": -33.767393,
+            "long": 150.756865
+        },
+        "suburb": "WERRINGTON SOUTH"
+    },
+    {
+        "name": "7-Eleven West Brunswick",
+        "coordinates": {
+            "lat": -37.765871,
+            "long": 144.943332
+        },
+        "suburb": "WEST BRUNSWICK"
+    },
+    {
+        "name": "7-Eleven West Ipswich",
+        "coordinates": {
+            "lat": -27.621899,
+            "long": 152.747525
+        },
+        "suburb": "WEST IPSWICH"
+    },
+    {
+        "name": "7-Eleven West Pennant Hills",
+        "coordinates": {
+            "lat": -33.74687,
+            "long": 151.050803
+        },
+        "suburb": "WEST PENNANT HILLS"
+    },
+    {
+        "name": "7-Eleven West Ryde",
+        "coordinates": {
+            "lat": -33.80917,
+            "long": 151.092804
+        },
+        "suburb": "WEST RYDE"
+    },
+    {
+        "name": "7-Eleven West Wollongong",
+        "coordinates": {
+            "lat": -34.425265,
+            "long": 150.884673
+        },
+        "suburb": "WEST WOLLONGONG"
+    },
+    {
+        "name": "7-Eleven Westbrook",
+        "coordinates": {
+            "lat": -27.607356,
+            "long": 151.872496
+        },
+        "suburb": "WESTBROOK"
+    },
+    {
+        "name": "7-Eleven Wickham",
+        "coordinates": {
+            "lat": -32.913602,
+            "long": 151.758251
+        },
+        "suburb": "WICKHAM"
+    },
+    {
+        "name": "7-Eleven Willawong",
+        "coordinates": {
+            "lat": -27.593842,
+            "long": 153.003728
+        },
+        "suburb": "WILLAWONG"
+    },
+    {
+        "name": "7-Eleven Williamstown North",
+        "coordinates": {
+            "lat": -37.857429,
+            "long": 144.888032
+        },
+        "suburb": "WILLIAMSTOWN NORTH"
+    },
+    {
+        "name": "7-Eleven Wilsonton",
+        "coordinates": {
+            "lat": -27.543327607151,
+            "long": 151.92378409614
+        },
+        "suburb": "WILSONTON"
+    },
+    {
+        "name": "7-Eleven Windaroo",
+        "coordinates": {
+            "lat": -27.735582,
+            "long": 153.193984
+        },
+        "suburb": "WINDAROO"
+    },
+    {
+        "name": "7-Eleven Windsor",
+        "coordinates": {
+            "lat": -33.611871,
+            "long": 150.812202
+        },
+        "suburb": "WINDSOR"
+    },
+    {
+        "name": "7-Eleven Wishart",
+        "coordinates": {
+            "lat": -27.556534,
+            "long": 153.089565
+        },
+        "suburb": "WISHART"
+    },
+    {
+        "name": "7-Eleven Woodridge",
+        "coordinates": {
+            "lat": -27.619112,
+            "long": 153.104853
+        },
+        "suburb": "WOODRIDGE"
+    },
+    {
+        "name": "7-Eleven Woodridge",
+        "coordinates": {
+            "lat": -27.620659,
+            "long": 153.115458
+        },
+        "suburb": "WOODRIDGE"
+    },
+    {
+        "name": "7-Eleven Woolooware",
+        "coordinates": {
+            "lat": -34.046318,
+            "long": 151.133545
+        },
+        "suburb": "WOOLOOWARE"
+    },
+    {
+        "name": "7-Eleven Woombye",
+        "coordinates": {
+            "lat": -26.667471,
+            "long": 152.975248
+        },
+        "suburb": "WOOMBYE"
+    },
+    {
+        "name": "7-Eleven Worongary",
+        "coordinates": {
+            "lat": -28.032975,
+            "long": 153.353008
+        },
+        "suburb": "WORONGARY"
+    },
+    {
+        "name": "7-Eleven Woy Woy",
+        "coordinates": {
+            "lat": -33.493793,
+            "long": 151.320161
+        },
+        "suburb": "WOY WOY"
+    },
+    {
+        "name": "7-Eleven Wurtulla",
+        "coordinates": {
+            "lat": -26.758741,
+            "long": 153.125128
+        },
+        "suburb": "WURTULLA"
+    },
+    {
+        "name": "7-Eleven Wynnum",
+        "coordinates": {
+            "lat": -27.446069,
+            "long": 153.171681
+        },
+        "suburb": "WYNNUM"
+    },
+    {
+        "name": "7-Eleven Yagoona",
+        "coordinates": {
+            "lat": -33.907609,
+            "long": 151.020773
+        },
+        "suburb": "YAGOONA"
+    },
+    {
+        "name": "7-Eleven Yallambie",
+        "coordinates": {
+            "lat": -37.731149,
+            "long": 145.085772
+        },
+        "suburb": "YALLAMBIE"
+    },
+    {
+        "name": "7-Eleven Yarraville",
+        "coordinates": {
+            "lat": -37.813065,
+            "long": 144.883166
+        },
+        "suburb": "YARRAVILLE"
+    },
+    {
+        "name": "7-Eleven Yeronga",
+        "coordinates": {
+            "lat": -27.519405,
+            "long": 153.015405
+        },
+        "suburb": "YERONGA"
+    }
+]

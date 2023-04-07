@@ -1,0 +1,7 @@
+#!/bin/bash
+location="${PWD}/dist/"
+rm -r "${location}"
+build=$(poetry build -f wheel)
+file=${build##* }
+echo "Instaling File in ${location}${file}"
+/usr/bin/python -m pip install --force-reinstall "${location}${file}"
