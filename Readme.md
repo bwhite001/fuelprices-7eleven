@@ -6,38 +6,50 @@ This Python package provides an easy way to get a list of Australian fuel prices
 Installation
 ------------
 
-To install the package, you can use `pip`:
+To install the package, you can use `pip`:```
 
-bashCopy code
+```bash
+pip install fuelprices-7eleven
 
-`pip install fuelprices-7eleven`
+```
 
 Usage
 -----
 
 To use the package, simply import it and call the `get_prices()` function:
 
-pythonCopy code
+```python
 
-`from fuelprices_7eleven import get_prices  prices = get_prices() print(prices)`
+from fuelprices_7eleven import get_prices  prices = get_prices() print(prices)
+
+```
 
 The `get_prices()` function returns a list of dictionaries, where each dictionary contains the following keys:
 
-*   `fuel_type`: the type of fuel (e.g. "Unleaded 91", "Premium Unleaded 95", etc.)
-*   `price`: the price of the fuel (in cents per litre)
-*   `location`: the location of the 7-Eleven store where the fuel price was sourced
+* `fuel_type`: the type of fuel (e.g. "Unleaded 91", "Premium Unleaded 95", etc.)
+* `price`: the price of the fuel (in cents per litre)
+* `location`: the location of the 7-Eleven store where the fuel price was sourced
 
 Here is an example of the output:
 
-pythonCopy code
-
-`[     {'fuel_type': 'Unleaded 91', 'price': 160, 'location': 'Sydney'},     {'fuel_type': 'Unleaded 91', 'price': 162, 'location': 'Melbourne'},     {'fuel_type': 'Unleaded 91', 'price': 163, 'location': 'Brisbane'},     {'fuel_type': 'Unleaded 91', 'price': 164, 'location': 'Perth'},     {'fuel_type': 'Premium Unleaded 95', 'price': 181, 'location': 'Sydney'},     {'fuel_type': 'Premium Unleaded 95', 'price': 183, 'location': 'Melbourne'},     {'fuel_type': 'Premium Unleaded 95', 'price': 185, 'location': 'Brisbane'},     {'fuel_type': 'Premium Unleaded 95', 'price': 186, 'location': 'Perth'} ]`
+```python
+[
+    {'fuel_type': 'Unleaded 91', 'price': 160, 'location': 'Sydney'},
+    {'fuel_type': 'Unleaded 91', 'price': 162, 'location': 'Melbourne'},
+    {'fuel_type': 'Unleaded 91', 'price': 163, 'location': 'Brisbane'},
+    {'fuel_type': 'Unleaded 91', 'price': 164, 'location': 'Perth'},
+    {'fuel_type': 'Premium Unleaded 95', 'price': 181, 'location': 'Sydney'},
+    {'fuel_type': 'Premium Unleaded 95', 'price': 183, 'location': 'Melbourne'},
+    {'fuel_type': 'Premium Unleaded 95', 'price': 185, 'location': 'Brisbane'},
+    {'fuel_type': 'Premium Unleaded 95', 'price': 186, 'location': 'Perth'}
+]
+```
 
 You can also pass a location to the `get_prices()` function to get prices for a specific city:
 
-pythonCopy code
-
-`prices = get_prices(location="Melbourne") print(prices)`
+```python
+    prices = get_prices(location="Melbourne") print(prices)
+```
 
 This will return a list of fuel prices for 7-Eleven stores in Melbourne.
 
