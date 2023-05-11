@@ -22,4 +22,4 @@ jobs:
             - name: Run Python script
               env:
                 DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-              run: python $HOME/.local/bin/fuelprices_discord
+              run: fuelprices_discord
