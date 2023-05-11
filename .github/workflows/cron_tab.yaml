@@ -1,8 +1,10 @@
-name: Run Python Package
+name: Send Discord Notification
 on:
     workflow_dispatch:
+    schedule:
+      - cron: '0 21 * * *' # Runs daily at 7am AEST (9pm UTC)
 jobs:
-    build:
+    schedule:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
@@ -11,7 +13,7 @@ jobs:
             - uses: actions/setup-python@v4
               with:
                 python-version: '3.9'
-                cache: 'pip' 
+                cache: 'pip'
             - name: Install package from release
               run: |
                   PACKAGE_VERSION=$(curl --silent "https://api.github.com/repos/bwhite001/fuelprices-7eleven/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
@@ -19,7 +21,7 @@ jobs:
             - name: Update PATH
               run: echo "$HOME/.local/bin" >> $GITHUB_PATH
 
-            - name: Run Python script
+            - name: Send Discord Notification
               env:
                 DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
               run: fuelprices_discord
