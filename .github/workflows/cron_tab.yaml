@@ -12,16 +12,13 @@ jobs:
             - name: Set up Python
               uses: actions/setup-python@v4
               with:
-                python-version: '3.9'
-                cache: 'pip'
-            - name: Install package from release
-              run: |
-                  PACKAGE_VERSION=$(curl --silent "https://api.github.com/repos/bwhite001/fuelprices-7eleven/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
-                  pip install "https://github.com/bwhite001/fuelprices-7eleven/releases/download/${PACKAGE_VERSION}/fuelprices_7eleven-${PACKAGE_VERSION}.tar.gz"
-            - name: Update PATH
-              run: echo "$HOME/.local/bin" >> $GITHUB_PATH
+                python-version: '3.10'
+                cache: 'poetry'
+
+            - name: Install poetry packages
+              run: poetry install --no-dev
 
             - name: Send Discord Notification
               env:
                 DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-              run: fuelprices_discord
+              run: poetry run fuelprices_discord
